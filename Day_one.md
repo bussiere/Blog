@@ -4,3 +4,5 @@ Category: Blog
 Tags: blogging, test
 
 ![Alt text](./static/images/yourimage.png)
+
+![Alt text](./static/images/yourimage.png)
