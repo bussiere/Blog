@@ -1,4 +1,0 @@
-Blog
-====
-
-Bussiere Blog

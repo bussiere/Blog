@@ -9,6 +9,8 @@ TIMEZONE = 'Europe/Paris'
 FEED_DOMAIN = 'http://bussiere.github.com/fez_odissey'
 DEFAULT_LANG = u'en'
 
+TEMPLATE_PAGES = "./"
+
 # Blogroll
 LINKS =  (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
           ('Python.org', 'http://python.org'),
