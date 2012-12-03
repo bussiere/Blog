@@ -1,7 +1,8 @@
-Date: 2012-02-20
-Title: Hello world
+Date: 2012-11-26
+Title: Readme
 Category: Blog
-Tags: blogging, test
+Tags: fez,decouverte,debut
+[0]: http://raw.github.com/bussiere/fez_odissey/gh-pages/static/images/_04.jpg  "Grande Version"
 
-fez_odyssey
-<img src="http://imageshack.us/a/img9/8749/2012102723082746.jpg">
+Ceci est un petit blog sur fez pour montrer nos decouvertes et notre aventure.
+[![Ou ai-je atterri ?](http://raw.github.com/bussiere/fez_odissey/gh-pages/static/images/_04_thumb.jpg)] [0] 
