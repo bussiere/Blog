@@ -27,6 +27,7 @@ def renamefile(nomfi,i):
                     os.rename(nomfi,"_0%d.jpg"%i)
                     nomfi = "_0%d.jpg"%i
                     ok = True
+                
             except :
                     i+= 1
     return nomfi
