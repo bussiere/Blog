@@ -1,12 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
-AUTHOR = u'Bussiere & Camille'
-SITENAME = u'A Fez Odyssey'
-SITEURL = 'http://bussiere.github.com/fez_odissey'
+AUTHOR = u'Bussiere'
+SITENAME = u'Bussiere Blog'
+SITEURL = 'http://bussiere.github.com/Blog'
 
 TIMEZONE = 'Europe/Paris'
-FEED_DOMAIN = 'http://bussiere.github.com/fez_odissey'
+FEED_DOMAIN = 'http://bussiere.github.com/Blog'
 DEFAULT_LANG = u'en'
 
 # Blogroll
