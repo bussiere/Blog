@@ -11,4 +11,4 @@ Notamment quand beaucoup de choses changent autour de vous.
 
 Je continue de penser que l'on a en partie l'age des gens que l'on frequente et des miss que l'on frequente.
 
-[![Asuka Swimsuit](http://raw.github.com/bussiere/Blog/gh-pages/static/images/_asuka_swimsuit_thumb.jpg)] [2] 
+[![Asuka Swimsuit](http://raw.github.com/bussiere/Blog/gh-pages/static/images/_asuka_swimsuit_thumb.jpg)] [0] 
