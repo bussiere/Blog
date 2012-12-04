@@ -4,9 +4,9 @@ Category: Jeux
 Tags: RPG,ADD,PC, Histoire de tonton Bussiere
 [0]: http://www.nolife-tv.com/news/976/une-suite-a-planescape-torment  "Nolife For Ever"
 [1]: http://arstechnica.com/gaming/2012/12/planescape-torment-sequel-finally-in-the-works/  "L'article en question"
-[2]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade"
+[2]: http://fr.wikipedia.org/wiki/Planescape:_Torment "Un jeu de malade"
 [3]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
-[4]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
+[4]: http://fr.wikipedia.org/wiki/Greyhawk "Passez moi le celte" 
 [5]: http://img194.imageshack.us/img194/8928/sachas.jpg "Un vrai, un tatoueur" 
 [6]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
 [7]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
@@ -40,8 +40,8 @@ Tags: RPG,ADD,PC, Histoire de tonton Bussiere
 [35]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
 [36]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
 [37]: http://www.dakkadakka.com/dakkaforum/posts/list/60/280295.page "Un gros Bordel" 
-
-Au detour du net sur [Nolife][0] je tombe sur un [article][1]  parlant d'une suite hypothétique pour [Planescape Torment][2]. Un jeu de role, de style occidental ce basant sur l'univers du meme [nom][3] chez TSR/Wizard of the Coast.
+[38]:http://www.gog.com/gamecard/planescape_torment "Achetez le c'est un ordre !"
+Au detour du net sur [Nolife][0] je tombe sur un [article][1]  parlant d'une suite hypothétique pour [Planescape Torment][2] [Achetez le !][38]. Un jeu de role, de style occidental ce basant sur l'univers du meme [nom][3] chez TSR/Wizard of the Coast.
 
 Et la plein de choses me viennent en memoire. Déja l'univers de base du jeux de role a lui même est génialissime. Il s'agit de Sygil, une ville a la croisée des plans.
 
