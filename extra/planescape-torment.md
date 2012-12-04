@@ -15,7 +15,7 @@ Tags: RPG,ADD,PC, Histoire de tonton Bussiere
 [10]: http://raw.github.com/bussiere/Blog/gh-pages/static/images/baldr2988.png "Hobbits cannibales" 
 [11]: http://en.wikipedia.org/wiki/Spelljammer "Mon ADD chez les cosmonautes" 
 [12]: http://www.youtube.com/watch?v=WExqkx1ogGI "Spaaaaace" 
-[13]: http://fr.wikipedia.org/wiki/Lancedragon "Un setting de malade" 
+[13]: http://fr.wikipedia.org/wiki/Lancedragon "De l'epique en barre" 
 [14]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
 [15]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
 [16]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
@@ -51,7 +51,7 @@ Dans l'univers d'add, il y a plusieurs settings :
 * [Forgotten Realms][6] : Classique mais devenus le setting officiel, avec une tone de roman dans son univers dont la serie [cultissime][7] de l'[elfe noir][8].
 * [DarkSun][9] : Du Post Apo medieval ou les dieux ce sont barrés et les hobbits sont [cannibales][10], sur un monde desertique a la mad max.
 * [SpellJammer][11] : Add in [Spaaaaaaaaaace][12] (ou certains objets magiques peuvent servir de carburant a vaisseaux spatiaux).
-* [LanceDragon][12] : Un univers [épique][13] ou la part belle est faite a la [narration][14].
+* [LanceDragon][12] : Un univers épique ou la part belle est faite a la [narration][14].
 
 Chaque setting est un [plan][15] de l'univers d'add, sachant que en plus il y a des plans par thème en plus des settings. Celui des démons, du feu, des [djinns][16], de la pierre, des [illithids][17], et certains sont squattés par des entités (dieux, [trucs][18], peuples).
 
