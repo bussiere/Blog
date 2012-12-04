@@ -26,7 +26,7 @@ Tags: RPG,ADD,PC, Histoire de tonton Bussiere
 [21]: http://en.wikipedia.org/wiki/Faction_(Planescape) "On se croirait a l'ump" 
 [22]: http://guy.com/a/wp-content/uploads/2011/02/watchmen-cover1.jpg "Un bon meta univers."
 [23]: http://www.deviantart.com/download/59001228/Sigil_with_Key_by_zen79.jpg "Et encore ..."
-[24]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
+[24]: http://www.striemer.org/scales-of-war/images/rat-swarm.jpg "Des rats particuliers ..." 
 [25]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
 [26]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
 [27]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
