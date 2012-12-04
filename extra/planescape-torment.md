@@ -24,7 +24,7 @@ Tags: RPG,ADD,PC, Histoire de tonton Bussiere
 [19]: http://1.bp.blogspot.com/_SniTwfm5BwE/SxRNUJeq_UI/AAAAAAAAB5w/lFdNkYDQd_Y/s1600/The+Multiverse.gif "Jolie mais bordelique" 
 [20]: http://lh5.ggpht.com/_ozUjxZJCZ0I/Smd9IpLnyQI/AAAAAAAABAA/ft62Jgq1Zcc/Epic_Level_Abyss.jpg "C est un peu ca la vie d'aventurier." 
 [21]: http://en.wikipedia.org/wiki/Faction_(Planescape) "On se croirait a l'ump" 
-[22]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade"
+[22]: http://guy.com/a/wp-content/uploads/2011/02/watchmen-cover1.jpg "Un bon meta univers."
 [23]: http://www.deviantart.com/download/59001228/Sigil_with_Key_by_zen79.jpg "Et encore ..."
 [24]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
 [25]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
@@ -43,7 +43,7 @@ Tags: RPG,ADD,PC, Histoire de tonton Bussiere
 [38]:http://www.gog.com/gamecard/planescape_torment "Achetez le c'est un ordre !"
 Au detour du net sur [Nolife][0] je tombe sur un [article][1]  parlant d'une suite hypothétique pour [Planescape Torment][2] ([Achetez le !][38]). Un jeu de role, de style occidental ce basant sur l'univers du meme [nom][3] chez TSR/Wizard of the Coast.
 
-Et la plein de choses me viennent en memoire. Déja l'univers de base du jeux de role a lui même est génialissime. Il s'agit de Sygil, une ville a la croisée des plans.
+Et la plein de choses me viennent en memoire. Déja l'univers de base du jeux de role a lui même est génialissime. Il s'agit de Sigil, une ville a la croisée des plans.
 
 Dans l'univers d'add, il y a plusieurs settings :
 
