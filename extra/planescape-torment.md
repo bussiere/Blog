@@ -16,16 +16,16 @@ Tags: RPG,ADD,PC, Histoire de tonton Bussiere
 [11]: http://en.wikipedia.org/wiki/Spelljammer "Mon ADD chez les cosmonautes" 
 [12]: http://www.youtube.com/watch?v=WExqkx1ogGI "Spaaaaace" 
 [13]: http://fr.wikipedia.org/wiki/Lancedragon "De l'epique en barre" 
-[14]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
-[15]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
-[16]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
-[17]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
-[18]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
-[19]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
-[20]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
-[21]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
-[22]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
-[23]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
+[14]: http://en.wikipedia.org/wiki/Margaret_Weis "Un des auteurs" 
+[15]:http://www.wizards.com/dnd/images/alumni_planes1.jpg "Vous etes ici." 
+[16]: http://teamwingman.net/uploads/bu/mahamoti_djinn1.jpg "Tonique" 
+[17]: http://images.ados.fr/divers/photo/8085295808/galerie-creatures/illithids-todd-lockwood-165198a30.jpg "Cthulhu" 
+[18]: http://www.tsrinfo.net/archive/ps/ps-uncaged.jpg "Le bizarre est la norme." 
+[19]: http://1.bp.blogspot.com/_SniTwfm5BwE/SxRNUJeq_UI/AAAAAAAAB5w/lFdNkYDQd_Y/s1600/The+Multiverse.gif "Jolie mais bordelique" 
+[20]: http://lh5.ggpht.com/_ozUjxZJCZ0I/Smd9IpLnyQI/AAAAAAAABAA/ft62Jgq1Zcc/Epic_Level_Abyss.jpg "C est un peu ca la vie d'aventurier." 
+[21]: http://en.wikipedia.org/wiki/Faction_(Planescape) "On se croirait a l'ump" 
+[22]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade"
+[23]: http://www.deviantart.com/download/59001228/Sigil_with_Key_by_zen79.jpg "Et encore ..."
 [24]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
 [25]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
 [26]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
@@ -51,7 +51,7 @@ Dans l'univers d'add, il y a plusieurs settings :
 * [Forgotten Realms][6] : Classique mais devenus le setting officiel, avec une tone de roman dans son univers dont la serie [cultissime][7] de l'[elfe noir][8].
 * [DarkSun][9] : Du Post Apo medieval ou les dieux ce sont barrés et les hobbits sont [cannibales][10], sur un monde desertique a la mad max.
 * [SpellJammer][11] : Add in [Spaaaaaaaaaace][12] (ou certains objets magiques peuvent servir de carburant a vaisseaux spatiaux).
-* [LanceDragon][12] : Un univers épique ou la part belle est faite a la [narration][14].
+* [LanceDragon][13] : Un univers épique ou la part belle est faite a la [narration][14].
 
 Chaque setting est un [plan][15] de l'univers d'add, sachant que en plus il y a des plans par thème en plus des settings. Celui des démons, du feu, des [djinns][16], de la pierre, des [illithids][17], et certains sont squattés par des entités (dieux, [trucs][18], peuples).
 
