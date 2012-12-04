@@ -15,7 +15,7 @@ Tags: RPG,ADD,PC, Histoire de tonton Bussiere
 [10]: http://raw.github.com/bussiere/Blog/gh-pages/static/images/baldr2988.png "Hobbits cannibales" 
 [11]: http://en.wikipedia.org/wiki/Spelljammer "Mon ADD chez les cosmonautes" 
 [12]: http://www.youtube.com/watch?v=WExqkx1ogGI "Spaaaaace" 
-[13]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
+[13]: http://fr.wikipedia.org/wiki/Lancedragon "Un setting de malade" 
 [14]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
 [15]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
 [16]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
