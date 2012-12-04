@@ -54,7 +54,7 @@ Dans l'univers d'add, il y a plusieurs settings :
 * [LanceDragon][12] : Un univers [épique][13] ou la part belle est faite a la [narration][14].
 
 Chaque setting est un [plan][15] de l'univers d'add, sachant que en plus il y a des plans par thème en plus des settings. Celui des démons, du feu, des [djinns][16], de la pierre, des [illithids][17], et certains sont squattés par des entités (dieux, [trucs][18], peuples).
-
+[35]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
 Donc un bon gros [bordel][19] des familles les plans. Bah Sigil c'est la ville qui se trouve au milieu de tout ca.
 Et a ADD des que l'on est un peu [puissant][20] on commence a se ballader entre les plans. Du coup a Sigil les gens sont de niveaux tres respectables et ont quand meme pas mal de bouteille. Par contre les accidents peuvent arriver et un clampin peut se retrouver ici sans comprendre ce qui lui arrive. Et meme la si il survit c'est qu'il est un minimun doué.
 
