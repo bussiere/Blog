@@ -8,13 +8,13 @@ Tags: RPG,ADD,PC, Histoire de tonton Bussiere
 [3]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
 [4]: http://fr.wikipedia.org/wiki/Greyhawk "Passez moi le celte" 
 [5]: http://img194.imageshack.us/img194/8928/sachas.jpg "Un vrai, un tatoueur" 
-[6]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
-[7]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
-[8]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
-[9]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
-[10]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
-[11]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
-[12]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
+[6]: http://fr.wikipedia.org/wiki/Royaumes_oubli%C3%A9s "Un setting plutot classique" 
+[7]: http://www.google.fr/search?q=pseudo+drizzt&hl=fr&gbv=2&gs_l=heirloom-hp.3...9032.12735.0.12907.17.11.0.3.3.0.656.1203.2-1j1j0j1.3.0...0.0...1c.1.8JGDSHhX5tc&oq=pseudo+drizzt "Tres original vraiment"
+[8]: http://fr.wikipedia.org/wiki/Drizzt_Do'Urden "Drizzy" 
+[9]: http://en.wikipedia.org/wiki/Dark_Sun "Un setting tres interessant" 
+[10]: http://raw.github.com/bussiere/Blog/gh-pages/static/images/baldr2988.png "Hobbits cannibales" 
+[11]: http://en.wikipedia.org/wiki/Spelljammer "Mon ADD chez les cosmonautes" 
+[12]: http://www.youtube.com/watch?v=WExqkx1ogGI "Spaaaaace" 
 [13]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
 [14]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
 [15]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
@@ -41,7 +41,7 @@ Tags: RPG,ADD,PC, Histoire de tonton Bussiere
 [36]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade" 
 [37]: http://www.dakkadakka.com/dakkaforum/posts/list/60/280295.page "Un gros Bordel" 
 [38]:http://www.gog.com/gamecard/planescape_torment "Achetez le c'est un ordre !"
-Au detour du net sur [Nolife][0] je tombe sur un [article][1]  parlant d'une suite hypothétique pour [Planescape Torment][2] [Achetez le !][38]. Un jeu de role, de style occidental ce basant sur l'univers du meme [nom][3] chez TSR/Wizard of the Coast.
+Au detour du net sur [Nolife][0] je tombe sur un [article][1]  parlant d'une suite hypothétique pour [Planescape Torment][2] ([Achetez le !][38]). Un jeu de role, de style occidental ce basant sur l'univers du meme [nom][3] chez TSR/Wizard of the Coast.
 
 Et la plein de choses me viennent en memoire. Déja l'univers de base du jeux de role a lui même est génialissime. Il s'agit de Sygil, une ville a la croisée des plans.
 
