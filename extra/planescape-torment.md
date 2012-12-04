@@ -3,9 +3,10 @@ Title: PlaneScapeTorment
 Category: Jeux
 Tags: RPG,ADD,PC, Histoire de tonton Bussiere
 [0]: http://arstechnica.com/gaming/2012/12/planescape-torment-sequel-finally-in-the-works/  "L'article en question"
-[1]: http://arstechnica.com/gaming/2012/12/planescape-torment-sequel-finally-in-the-works/  "L'article en question"
+[1]: http://www.nolife-tv.com/news/976/une-suite-a-planescape-torment  "Nolife For Ever"
+[2]: http://en.wikipedia.org/wiki/Planescape "Un setting de malade"
 
-Au detour du net sur Nolife je tombe sur un [article] [0]  parlant d'une suite hypothétique pour [Planescape Torment]. Un jeu de role, de style occidental ce basant sur l'univers du meme [nom] chez TSR/Wizard of the Coast.
+Au detour du net sur [Nolife][1] je tombe sur un [article][0]  parlant d'une suite hypothétique pour [Planescape Torment]. Un jeu de role, de style occidental ce basant sur l'univers du meme [nom][2] chez TSR/Wizard of the Coast.
 
 Et la plein de choses me viennent en memoire. Déja l'univers de base du jeux de role a lui même est génialissime. Il s'agit de Sygil, une ville a la croisée des plans.
 
@@ -14,6 +15,8 @@ Dans l'univers d'add, il y a plusieurs settings :
 * GreyHawk : plutot classique et celtique.
 * Forgotten realms Classique mais devenus le setting officiel, avec une tone de roman dans son univers dont la serie cultissime(pseudo drizzt) de l'elfe noir.
 * DarkSun : Du Post Apo medieval ou les dieux ce sont barrés et les hobbits sont cannibales, sur un monde desertique a la mad max.
+* SpellJammer : Add in Spaaaaaaaaaace (ou certains objets magiques peuvent servir de carburant a vaisseaux spatiaux).
+* LanceDragon : Un univers épique ou la part belle est faite a la narration.
 
 Chaque setting est un plan de l'univers d'add, sachant que en plus il y a des plans par thème en plus des settings. Celui des démons, du feu, des djinns, de la pierre, des illithids, et certains sont squattés par des entités (dieux, trucs, peuples).
 
