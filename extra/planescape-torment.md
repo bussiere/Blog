@@ -41,7 +41,8 @@ Tags: RPG,ADD,PC, Histoire de tonton Bussiere
 [36]: http://www.google.fr/imgres?um=1&hl=fr&safe=off&tbo=d&authuser=0&biw=1680&bih=935&tbm=isch&tbnid=zt70JGOoqgPyUM:&imgrefurl=http://www.wall321.com/Animals/Dragons/dice_lips_mouth_dungeons_and_dragons_1680x1050_wallpaper_44972&docid=EfXTFxl97s00UM&imgurl=http://www.wall321.com/thumbnails/detail/20120613/dice%252520lips%252520mouth%252520dungeons%252520and%252520dragons%2525201680x1050%252520wallpaper_www.wall321.com_48.jpg&w=800&h=500&ei=2jO_UKW9C-GR0QHlyIDwDw&zoom=1&iact=rc&dur=492&sig=109217122160625085841&page=1&tbnh=141&tbnw=229&start=0&ndsp=47&ved=1t:429,r:0,s:0,i:83&tx=144&ty=54 "Je vous aime ..." 
 [37]: http://www.dakkadakka.com/dakkaforum/posts/list/60/280295.page "Un gros Bordel" 
 [38]:http://www.gog.com/gamecard/planescape_torment "Achetez le c'est un ordre !"
-Au detour du net sur [Nolife][0] je tombe sur un [article][1]  parlant d'une suite hypothétique pour [Planescape Torment][2] ([Achetez le !][38]). Un jeu de role, de style occidental ce basant sur l'univers du meme [nom][3] chez TSR/Wizard of the Coast.
+[39]:http://colinmccomb.com/?p=157 "l'origine"
+Au detour du net sur [Nolife][0] je tombe sur un [article][1]  ([lien original][39] merci a Hugo Jacob)parlant d'une suite hypothétique pour [Planescape Torment][2] ([Achetez le !][38]). Un jeu de role, de style occidental ce basant sur l'univers du meme [nom][3] chez TSR/Wizard of the Coast.
 
 Et la plein de choses me viennent en memoire. Déja l'univers de base du jeux de role a lui même est génialissime. Il s'agit de Sigil, une ville a la croisée des plans.
 
