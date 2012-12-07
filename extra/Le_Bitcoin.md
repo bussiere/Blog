@@ -15,5 +15,8 @@ Aujourd'hui je tombe sur cet [article][4] (en gros un [site][5] d'echange de bit
 
 Donc qu'est ce que le bitcoin et pourquoi cela satisfait le vieux [libertarien][7] [anarchiste capitaliste][8] [individuel][9] [hacker][10] que je suis :
 
+Je vais donc tenter de vulgariser l'article de wikipedia.
+Le bitcoin est donc une crypto monnaie P2P
+
 Pour faire un commentaire, inscrivez vous sur github et faite un fork / pull que je validerai.
 
