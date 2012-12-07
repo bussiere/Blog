@@ -3,8 +3,20 @@ Title: Le bitcoin pour les nuls
 Category: Geek
 Tags: bitcoin,crypto,monnaie,economie,libertarian,cypherpunk
 [0]: http://raw.github.com/bussiere/Blog/gh-pages/static/images/Bitcoin.jpg  "MoneyMoney it's the richman's world"
-[4]:https://bitcointalk.org/index.php?topic=129461.0 "\o/"
-[10]: http://fr.wikipedia.org/wiki/Audrey_Tang "La voie de l'hermaphrodite"
+[1]: http://www.dernierbar.com/ "Des vrais"
+[2]: http://anadore.fr/ "Des purs aussi"
+[3]: http://fr.wikipedia.org/wiki/Bitcoin "Chaud a comprendre"
+[4]: https://bitcointalk.org/index.php?topic=129461.0 "\o/"
+[5]: https://fr.bitcoin-central.net/ "Un site d'echange de bitcoin"
+[6]: http://fr.wikipedia.org/wiki/Licence_bancaire "La license bancaire"
+[7]: http://en.wikipedia.org/wiki/Libertarianism "I did it my waaay"
+[8]: http://en.wikipedia.org/wiki/Anarcho-capitalism "Money makes the world goes round"
+[9]: http://fr.wikipedia.org/wiki/Audrey_Tang "La voie de l'hermaphrodite"
+[10]: http://en.wikipedia.org/wiki/Kevin_Mitnick "Un vieux de la veille"
+[11]: http://en.wikipedia.org/wiki/Cypherpunk "Alice et bob ils ont baisés ou pas ?"
+[12]: http://en.wikipedia.org/wiki/William_Gibson "Le pere"
+[13]: http://fr.wikipedia.org/wiki/Bitcoin "Chaud"
+[14]: https://www.x.com/devzone/articles/how-crypto-currencies-transform-money "Les maths servent a tout ..."
 [100]: http://raw.github.com/bussiere/Blog/gh-pages/static/images/cypherpunk.jpg  "La crypto c'est rigolo"
 [101]: http://en.wikipedia.org/wiki/Individualist_anarchism "F00l"
 
@@ -15,9 +27,8 @@ Et une [connaissance][2] qui etait la ne connaissait pas non plus les bitcoin, d
 
 Aujourd'hui je tombe sur cet [article][4] (en gros un [site][5] d'echange de bitcoin a passé un accord avec des banques dont le credit mutuel pour avoir un [statut de banque][6]).
 
-
-
 [![La crypto c'est rigolo](http://raw.github.com/bussiere/Blog/gh-pages/static/images/cypherpunk_thumb.jpg)][100]
+
 Donc qu'est ce que le bitcoin et pourquoi cela satisfait le vieux [libertarien][7] [anarchiste capitaliste][8] [individuel][9] [hacker][10] [cypherpunk][11] et fan de [cyberpunk][12] que je suis :
 
 Je vais donc tenter de vulgariser l'[article de wikipedia][13] :
@@ -29,6 +40,7 @@ Sachant que ces validations sont prevues pour etre de plus en plus dur a effectu
 En encore plus gros : Les bitcoins sont une monnaie decentralisée, n'appartenant a personne, ne dependant d'aucune structure et anonyme.
 
 Et pourquoi c'est [bien][18] ? :
+
 [![A](http://raw.github.com/bussiere/Blog/gh-pages/static/images/200px-Mutualismo_thumb.jpg)][101]
 
 Trainant de temps en temps dans l'[industrie][19] du [sexe][20], j'ai souvent éte confronté a une certaine hypocrisie.
@@ -50,6 +62,7 @@ ceux ci sont tres [chatouilleux][35] sur la question (il suffit de voir les [pei
 La monnaie etant un bon moyen de controler les citoyens d'un etat et d'imposer un ordre social (voire une [pseudo morale][37] contre un controle de l'argent).
 Une monnaie sans etat ni structure centrale ne peut etre qu'a mon gout une bonne monnaie.
 
+Cet article n'engage que moi et j'espere qu'il est juste.
 
 Pour faire un commentaire, inscrivez vous sur github et faite un fork / pull que je validerai.
 
