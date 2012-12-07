@@ -17,6 +17,30 @@ Tags: bitcoin,crypto,monnaie,economie,libertarian,cypherpunk
 [12]: http://en.wikipedia.org/wiki/William_Gibson "Le pere"
 [13]: http://fr.wikipedia.org/wiki/Bitcoin "Chaud"
 [14]: https://www.x.com/devzone/articles/how-crypto-currencies-transform-money "Les maths servent a tout ..."
+[15]: http://en.wikipedia.org/wiki/Peer-to-peer "Principes de bases"
+[16]: http://fr.wikipedia.org/wiki/Banque_de_France "A marnes la vallée"
+[17]: http://fr.wikipedia.org/wiki/Hashage "Parmentier"
+[18]: http://aldoniel.free.fr/ImagesSite/latex04946.jpg "Le monde de monsieur fred est une emission culturelle."
+[19]: http://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CC8QFjAA&url=http%3A%2F%2Fwww.galagofilms.com%2F&ei=BQvCUNW0M8ek0QXV24DIBg&usg=AFQjCNGA5v2jxz3RsrtfFgP68u_cwhTbqg "Pas un truc de pédé."
+[20]: http://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CDEQFjAA&url=http%3A%2F%2Fdsxred.com%2F&ei=TAvCUOqlFsaK0AW2vYHYAg&usg=AFQjCNF_cqpHQVpBz__mNYO_WyNd1VHfHA "Un jour ..."
+[21]: http://news.ycombinator.com/item?id=1678582 "Tout le monde peut y passer."
+[22]: https://www.google.fr/search?q=paypal+account+blocked+hackernews&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:fr:official&client=firefox-a#hl=fr&client=firefox-a&hs=2sL&tbo=d&rls=org.mozilla:fr%3Aofficial&sclient=psy-ab&q=paypal+account+blocked+&oq=paypal+account+blocked+&gs_l=serp.3..0i19j0i30i19l3.24763.24763.2.24936.1.1.0.0.0.0.82.82.1.1.0...0.0...1c.1.-QA-IkC7Wl0&pbx=1&bav=on.2,or.r_gc.r_pw.r_qf.&fp=eb7fdcdeee9729ed&bpcl=39650382&biw=1680&bih=866 "mouais"
+[23]: http://news.cnet.com/8301-1023_3-57509148-93/paypal-exec-gets-personally-involved-in-account-dispute/ "Et cela arrive souvent"
+[24]: http://www.leparisien.fr/reactions/argenteuil-95100/le-club-libertin-prie-de-changer-de-banque-02-10-2012-2196581.php "pas comme si il y avait de nombreux gens bossant dans la banque en soirée sm hein ..."
+[25]: http://lexpansion.lexpress.fr/investissement/frais-abusifs-les-banques-de-nouveau-epinglees_241451.html "Banquignol"
+[26]: http://en.wikipedia.org/wiki/Tor_%28anonymity_network%29 "A utiliser"
+[27]: http://it.slashdot.org/story/12/05/26/033242/hacked-bitcoin-financial-site-had-no-backups "bande d'amateur"
+[28]: http://fr.wikipedia.org/wiki/Confiance "Mouais"
+[29]: http://fr.wikipedia.org/wiki/%C3%89talon-or "Tout sur du vent"
+[30]: http://fr.wikipedia.org/wiki/Monnaie_de_n%C3%A9cessit%C3%A9 "Comme quoi"
+[31]: http://fr.wikipedia.org/wiki/Monnaie_scripturale "Toujours du vent"
+[32]: http://fr.wikipedia.org/wiki/Rivest_Shamir_Adleman#Attaques "Exemples"
+[33]: http://fr.wikipedia.org/wiki/Calculateur_quantique "Pas demain la veille mais bon."
+[34]: http://www.wikiberal.org/wiki/Fonctions_r%C3%A9galiennes#Le_cas_particulier_de_la_monnaie "Frapper la monnaie = Pouvoir"
+[35]: http://en.wikipedia.org/wiki/E-gold#2007_indictment "On ne plaisante pas avec cela"
+[36]: http://fr.wikipedia.org/wiki/Faux-monnayage#Mesures_r.C3.A9pressives "Menaces sur l'ordre publique"
+[37]: https://www.google.fr/search?q=loi+pornographie&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:fr:official&client=firefox-a#hl=fr&client=firefox-a&hs=kwg&tbo=d&rls=org.mozilla:fr%3Aofficial&sclient=psy-ab&q=%22une+loi+nouvelle+rend+la+production+plus+difficile+%22+classement&oq=%22une+loi+nouvelle+rend+la+production+plus+difficile+%22+classement&gs_l=serp.3...9701.13151.2.13366.19.15.3.0.0.3.562.5639.2-1j2j7j3.13.0...0.0...1c.1.GDB1U2brWdo&pbx=1&bav=on.2,or.r_gc.r_pw.r_qf.&fp=eb7fdcdeee9729ed&bpcl=39650382&biw=1680&bih=838 "Mouais"
+[99]: https://bitcointalk.org/index.php?topic=3508.0 "Masse monetaire"
 [100]: http://raw.github.com/bussiere/Blog/gh-pages/static/images/cypherpunk.jpg  "La crypto c'est rigolo"
 [101]: http://en.wikipedia.org/wiki/Individualist_anarchism "F00l"
 
@@ -33,13 +57,13 @@ Donc qu'est ce que le bitcoin et pourquoi cela satisfait le vieux [libertarien][
 
 Je vais donc tenter de vulgariser l'[article de wikipedia][13] :
 
-Le bitcoin est donc une [crypto monnaie][14] [P2P][15] sans etats ni banques [centralisateur][16] derriere.
+Le bitcoin est donc une [crypto monnaie][14] [P2P][15] sans etats ni banques [centralisateurs][16] derriere.
 En gros, l'on peut acheter des bitcoins ou en créer en faisant tourner des [calculs de cryptographies asymetriques][17] servant a valider le systeme.
 La validation des transactions de bitcoin par calculs cryptographiques en pretant de son temps machine, entraine en recompense la creation de bitcoin pour le preteur de machine.
-Sachant que ces validations sont prevues pour etre de plus en plus dur a effectuer et que la masse monetaire des bitcoins est prevus pour etre [finit][18].
+Sachant que ces validations sont prevues pour etre de plus en plus dur a effectuer et que la masse monetaire des bitcoins est prevus pour etre [finit][99].
 En encore plus gros : Les bitcoins sont une monnaie decentralisée, n'appartenant a personne, ne dependant d'aucune structure et anonyme.
 
-Et pourquoi c'est [bien][18] ? :
+Et pourquoi c'est [bieeeeeeeeeen][18] ? :
 
 [![A](http://raw.github.com/bussiere/Blog/gh-pages/static/images/200px-Mutualismo_thumb.jpg)][101]
 
