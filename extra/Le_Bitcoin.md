@@ -43,7 +43,7 @@ Tags: bitcoin,crypto,monnaie,economie,libertarian,cypherpunk
 [99]: https://bitcointalk.org/index.php?topic=3508.0 "Masse monetaire"
 [100]: http://raw.github.com/bussiere/Blog/gh-pages/static/images/cypherpunk.jpg  "La crypto c'est rigolo"
 [101]: http://en.wikipedia.org/wiki/Individualist_anarchism "F00l"
-[38]: https://www.google.fr/search?q=loi+pornographie&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:fr:official&client=firefox-a#hl=fr&client=firefox-a&hs=kwg&tbo=d&rls=org.mozilla:fr%3Aofficial&sclient=psy-ab&q=%22une+loi+nouvelle+rend+la+production+plus+difficile+%22+classement&oq=%22une+loi+nouvelle+rend+la+production+plus+difficile+%22+classement&gs_l=serp.3...9701.13151.2.13366.19.15.3.0.0.3.562.5639.2-1j2j7j3.13.0...0.0...1c.1.GDB1U2brWdo&pbx=1&bav=on.2,or.r_gc.r_pw.r_qf.&fp=eb7fdcdeee9729ed&bpcl=39650382&biw=1680&bih=838 "Mouais"
+[38]: https://www.4chan.org/pass "On ne parle pas de 4chan d'habitude mais bon"
 
 [![MoneyMoney it's the richman's world](http://raw.github.com/bussiere/Blog/gh-pages/static/images/Bitcoin_thumb.jpg)][0]
 
