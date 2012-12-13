@@ -47,7 +47,7 @@ Tags: bitcoin,crypto,monnaie,economie,libertarian,cypherpunk
 
 [![MoneyMoney it's the richman's world](http://raw.github.com/bussiere/Blog/gh-pages/static/images/Bitcoin_thumb.jpg)][0]
 
-Hier au [dernier bar][1], j'ai demandé au patron si il allait accepter un jour le paiement en [bitcoin][1].
+Hier au [dernier bar][1], j'ai demandé au patron si il allait accepter un jour le paiement en [bitcoin][3].
 Et une [connaissance][2] qui etait la ne connaissait pas non plus les bitcoin, du coup j'ai du expliquer vite fait ce qu'etait les [bitcoin][3].
 
 Aujourd'hui je tombe sur cet [article][4] (en gros un [site][5] d'echange de bitcoin a passé un accord avec des banques dont le credit mutuel pour avoir un [statut de banque][6]).
