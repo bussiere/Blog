@@ -43,6 +43,7 @@ Tags: bitcoin,crypto,monnaie,economie,libertarian,cypherpunk
 [99]: https://bitcointalk.org/index.php?topic=3508.0 "Masse monetaire"
 [100]: http://raw.github.com/bussiere/Blog/gh-pages/static/images/cypherpunk.jpg  "La crypto c'est rigolo"
 [101]: http://en.wikipedia.org/wiki/Individualist_anarchism "F00l"
+[38]: https://www.google.fr/search?q=loi+pornographie&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:fr:official&client=firefox-a#hl=fr&client=firefox-a&hs=kwg&tbo=d&rls=org.mozilla:fr%3Aofficial&sclient=psy-ab&q=%22une+loi+nouvelle+rend+la+production+plus+difficile+%22+classement&oq=%22une+loi+nouvelle+rend+la+production+plus+difficile+%22+classement&gs_l=serp.3...9701.13151.2.13366.19.15.3.0.0.3.562.5639.2-1j2j7j3.13.0...0.0...1c.1.GDB1U2brWdo&pbx=1&bav=on.2,or.r_gc.r_pw.r_qf.&fp=eb7fdcdeee9729ed&bpcl=39650382&biw=1680&bih=838 "Mouais"
 
 [![MoneyMoney it's the richman's world](http://raw.github.com/bussiere/Blog/gh-pages/static/images/Bitcoin_thumb.jpg)][0]
 
@@ -87,6 +88,8 @@ La monnaie etant un bon moyen de controler les citoyens d'un etat et d'imposer u
 Une monnaie sans etat ni structure centrale ne peut etre qu'a mon gout une bonne monnaie.
 
 Cet article n'engage que moi et j'espere qu'il est juste.
+
+Edit mise a jour du 13 decembre : [4CHAN accepte les bitcoins][38] \o/
 
 Pour faire un commentaire, inscrivez vous sur github et faite un fork / pull que je validerai.
 
