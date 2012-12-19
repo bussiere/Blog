@@ -1,5 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Bussiere Blog</title><link href="http://bussiere.github.com/Blog/" rel="alternate"></link><link href="http://bussiere.github.com/Blog/feeds/all.atom.xml" rel="self"></link><id>http://bussiere.github.com/Blog/</id><updated>2012-12-13T00:00:00+01:00</updated><entry><title>Fuit moi je te suit, Suit moi je te fuit.</title><link href="http://bussiere.github.com/Blog/fuit-moi-je-te-suit-suit-moi-je-te-fuit.html" rel="alternate"></link><updated>2012-12-13T00:00:00+01:00</updated><author><name>Bussiere</name></author><id>tag:bussiere.github.com/Blog,2012-12-13:fuit-moi-je-te-suit-suit-moi-je-te-fuit.html</id><summary type="html">&lt;p&gt;Si il y a toujours eu un truc qui m'a gonflé, c'est cette psychologie de fuit moi je te suit, suit moi je te fuit.
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Bussiere Blog</title><link href="http://bussiere.github.com/Blog/" rel="alternate"></link><link href="http://bussiere.github.com/Blog/feeds/all.atom.xml" rel="self"></link><id>http://bussiere.github.com/Blog/</id><updated>2012-12-19T00:00:00+01:00</updated><entry><title>Les Query en django</title><link href="http://bussiere.github.com/Blog/les-query-en-django.html" rel="alternate"></link><updated>2012-12-19T00:00:00+01:00</updated><author><name>Bussiere</name></author><id>tag:bussiere.github.com/Blog,2012-12-19:les-query-en-django.html</id><summary type="html">&lt;p&gt;Pour ceux qui ne sont pas au courant, Django c'est le bien.&lt;/p&gt;
+&lt;p&gt;Sauf que je galere tout le temps avec les query, du coup cet article va me servir de pense bete a moi aussi et de tutorial pour vous.
+Je m'appui&lt;/p&gt;
+&lt;p&gt;Donc :&lt;/p&gt;
+&lt;p&gt;Recuperer tout les objets d'un type :
+all_entries = Entry.objects.all()&lt;/p&gt;
+&lt;p&gt;Mettre un filtre precis sur un objet :
+(ici le = signifie exactement)
+Entry.objects.filter(pub_date__year=2006)&lt;/p&gt;
+&lt;p&gt;Tout les objets ne correspondant pas a une requete :
+(ici le = signifie exactement)
+Entry.objects.exclude(pub_date__year=2006)&lt;/p&gt;
+&lt;p&gt;Pour des questions de lisibilité il vaut mieux enchainer les query :&lt;/p&gt;
+&lt;p&gt;q1 = Entry.objects.filter(headline__startswith="What")
+q2 = q1.exclude(pub_date__gte=datetime.date.today())
+q3 = q1.filter(pub_date__gte=datetime.date.today())
+q4 = q2.filter(pub_date__year=2006)&lt;/p&gt;
+&lt;p&gt;Pour obtenir un objet precis :
+one_entry = Entry.objects.get(pk=1)&lt;/p&gt;
+&lt;p&gt;Par contre attention la requete leve une erreur si cette requete ne renvois rien.&lt;/p&gt;
+&lt;p&gt;Si vous n'etes pas sur il vaut mieux utiliser :
+Ceci renverra null ou quelquechose si elle existe et pas d'erreur
+Entry.objects.filter(pk__exact=1)&lt;/p&gt;
+&lt;p&gt;Des recherches qui contiennent un bout de texte (like en sql) :&lt;/p&gt;
+&lt;h1 id="toute-les-annees-2000-qui-contiennent-20-donc"&gt;toute les annees 2000 (qui contiennent 20 donc)&lt;/h1&gt;
+&lt;h1 id="mais-peut-ramener-1920"&gt;mais peut ramener 1920&lt;/h1&gt;
+&lt;p&gt;Entry.objects.filter(pub_date__year__contains='20')&lt;/p&gt;
+&lt;h1 id="ne-ramene-que-les-annees-spot-2000-inclus"&gt;ne ramene que les annees spot 2000 (inclus) :&lt;/h1&gt;
+&lt;p&gt;Entry.objects.filter(pub_date__year__startswith='20')&lt;/p&gt;
+&lt;p&gt;Requete particuliere et multiple :&lt;/p&gt;
+&lt;h1 id="ramene-les-entrees-avec-les-id-1-4-et-7"&gt;Ramene les entrees avec les  id 1, 4 et 7&lt;/h1&gt;
+&lt;p&gt;Entry.objects.filter(pk__in=[1,4,7])&lt;/p&gt;
+&lt;h1 id="ramene-les-entrees-avec-id-14"&gt;Ramene les entrees avec  id &amp;gt; 14&lt;/h1&gt;
+&lt;p&gt;Entry.objects.filter(pk__gt=14)&lt;/p&gt;
+&lt;p&gt;Requete avec des relations :
+Blog.objects.filter(entry__authors__name='Lennon')&lt;/p&gt;
+&lt;p&gt;Source :
+https://docs.djangoproject.com/en/dev/topics/db/queries/&lt;/p&gt;</summary><category term="Django"></category><category term="Query"></category><category term="Sql"></category></entry><entry><title>Resister</title><link href="http://bussiere.github.com/Blog/resister.html" rel="alternate"></link><updated>2012-12-19T00:00:00+01:00</updated><author><name>Bussiere</name></author><id>tag:bussiere.github.com/Blog,2012-12-19:resister.html</id><summary type="html">&lt;p&gt;"Résister, c'est créer"  [Miguel-Benasayag]&lt;/p&gt;</summary><category term="Resister"></category><category term="Creation"></category><category term="Resistance"></category></entry><entry><title>Fuit moi je te suit, Suit moi je te fuit.</title><link href="http://bussiere.github.com/Blog/fuit-moi-je-te-suit-suit-moi-je-te-fuit.html" rel="alternate"></link><updated>2012-12-13T00:00:00+01:00</updated><author><name>Bussiere</name></author><id>tag:bussiere.github.com/Blog,2012-12-13:fuit-moi-je-te-suit-suit-moi-je-te-fuit.html</id><summary type="html">&lt;p&gt;Si il y a toujours eu un truc qui m'a gonflé, c'est cette psychologie de fuit moi je te suit, suit moi je te fuit.
 Une perte de temps , d'energie et de moyens. Les choses seraient tellement plus simple si on arrivait a s'en passer.
 Ce genre de comportement absurde, pour la personne que je suis qui aime quand meme bien optimiser les choses me herisse le poil au plus haut point.&lt;/p&gt;
 &lt;p&gt;Bref, malheureusement on est obligé de faire avec helas. Et les gens le prennent mal quand on leur fait remarquer.&lt;/p&gt;
