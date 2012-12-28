@@ -25,6 +25,7 @@
                                                                                                     <li ><a href="./category/blog.html">Blog</a></li>
                                     <li ><a href="./category/geek.html">Geek</a></li>
                                     <li ><a href="./category/jeux.html">Jeux</a></li>
+                                    <li ><a href="./category/perso.html">Perso</a></li>
                                 </ul></nav>
         </header><!-- /#banner -->
                 
@@ -32,8 +33,40 @@
 
                             <aside id="featured" class="body">
                 <article>
-                    <h1 class="entry-title"><a href="./les-query-en-django.html">Les Query en django</a></h1> 
+                    <h1 class="entry-title"><a href="./petite-puterie-en-java.html">Petite Puterie en java</a></h1> 
                     <footer class="post-info">
+        <abbr class="published" title="2012-12-28T00:00:00">
+                ven. 28 dÚcembre 2012
+        </abbr>
+
+                <address class="vcard author">
+                By <a class="url fn" href="./author/bussiere.html">Bussiere</a>
+        </address>
+        <p>In <a href="./category/geek.html">Geek</a>. </p>
+<p>tags: <a href="./tag/geek.html">geek</a><a href="./tag/java.html">java</a><a href="./tag/prog.html">prog</a></p>
+</footer><!-- /.post-info --><p>Suite a ce <a href="http://sametmax.com/loperateur-not-bitwise-ou-tilde-en-javascript/" title="Tres bon blog">post</a> sur le site de <a href="http://sametmax.com" title="Tres bon site">sam et max</a>, j'ai eu l'idée d'une petite puterie en java.</p>
+<p>Je vous la livre :</p>
+<div class="codehilite"><pre><span class="k">for</span> <span class="p">(</span><span class="n">int</span> <span class="nb">i</span> <span class="p">=</span> 0<span class="p">;</span><span class="nb">i</span> <span class="o">&lt;</span> 5<span class="p">;</span> <span class="nb">i</span> <span class="p">=</span> <span class="o">-</span><span class="p">(</span><span class="o">~</span><span class="nb">i</span><span class="p">))</span>
+<span class="p">{</span>
+    <span class="n">System</span><span class="p">.</span><span class="n">out</span><span class="p">.</span><span class="n">println</span><span class="p">(</span><span class="nb">i</span><span class="p">);</span>
+<span class="p">}</span>
+</pre></div>                </article>
+                            </aside><!-- /#featured -->
+                            <section id="content" class="body">
+                    <h1>Other articles</h1>
+                    <hr />
+                    <ol id="posts-list" class="hfeed">
+                                                
+
+                 
+                        <li><article class="hentry">    
+                <header>
+                    <h1><a href="./les-query-en-django.html" rel="bookmark"
+                           title="Permalink to Les Query en django">Les Query en django</a></h1>
+                </header>
+                
+                <div class="entry-content">
+                <footer class="post-info">
         <abbr class="published" title="2012-12-19T00:00:00">
                 mer. 19 dÚcembre 2012
         </abbr>
@@ -43,50 +76,15 @@
         </address>
         <p>In <a href="./category/geek.html">Geek</a>. </p>
 <p>tags: <a href="./tag/django.html">Django</a><a href="./tag/query.html">Query</a><a href="./tag/sql.html">Sql</a></p>
-</footer><!-- /.post-info --><p>Pour ceux qui ne sont pas au courant, Django c'est le bien.</p>
+</footer><!-- /.post-info -->                <p>Pour ceux qui ne sont pas au courant, Django c'est le bien.</p>
 <p>Sauf que je galere tout le temps avec les query, du coup cet article va me servir de pense bete a moi aussi et de tutorial pour vous.
 Je m'appui</p>
 <p>Donc :</p>
-<p>Recuperer tout les objets d'un type :
-all_entries = Entry.objects.all()</p>
-<p>Mettre un filtre precis sur un objet :
-(ici le = signifie exactement)
-Entry.objects.filter(pub_date__year=2006)</p>
-<p>Tout les objets ne correspondant pas a une requete :
-(ici le = signifie exactement)
-Entry.objects.exclude(pub_date__year=2006)</p>
-<p>Pour des questions de lisibilité il vaut mieux enchainer les query :</p>
-<p>q1 = Entry.objects.filter(headline__startswith="What")
-q2 = q1.exclude(pub_date__gte=datetime.date.today())
-q3 = q1.filter(pub_date__gte=datetime.date.today())
-q4 = q2.filter(pub_date__year=2006)</p>
-<p>Pour obtenir un objet precis :
-one_entry = Entry.objects.get(pk=1)</p>
-<p>Par contre attention la requete leve une erreur si cette requete ne renvois rien.</p>
-<p>Si vous n'etes pas sur il vaut mieux utiliser :
-Ceci renverra null ou quelquechose si elle existe et pas d'erreur
-Entry.objects.filter(pk__exact=1)</p>
-<p>Des recherches qui contiennent un bout de texte (like en sql) :</p>
-<h1 id="toute-les-annees-2000-qui-contiennent-20-donc">toute les annees 2000 (qui contiennent 20 donc)</h1>
-<h1 id="mais-peut-ramener-1920">mais peut ramener 1920</h1>
-<p>Entry.objects.filter(pub_date__year__contains='20')</p>
-<h1 id="ne-ramene-que-les-annees-spot-2000-inclus">ne ramene que les annees spot 2000 (inclus) :</h1>
-<p>Entry.objects.filter(pub_date__year__startswith='20')</p>
-<p>Requete particuliere et multiple :</p>
-<h1 id="ramene-les-entrees-avec-les-id-1-4-et-7">Ramene les entrees avec les  id 1, 4 et 7</h1>
-<p>Entry.objects.filter(pk__in=[1,4,7])</p>
-<h1 id="ramene-les-entrees-avec-id-14">Ramene les entrees avec  id &gt; 14</h1>
-<p>Entry.objects.filter(pk__gt=14)</p>
-<p>Requete avec des relations :
-Blog.objects.filter(entry__authors__name='Lennon')</p>
-<p>Source :
-https://docs.djangoproject.com/en/dev/topics/db/queries/</p>                </article>
-                            </aside><!-- /#featured -->
-                            <section id="content" class="body">
-                    <h1>Other articles</h1>
-                    <hr />
-                    <ol id="posts-list" class="hfeed">
-                                                
+<p>Recuperer tout les objets d ...</p>
+                <a class="readmore" href="./les-query-en-django.html">read more</a>
+                                </div><!-- /.entry-content -->
+            </article></li>
+                            
 
                  
                         <li><article class="hentry">    
@@ -186,6 +184,88 @@ Et une <a href="http://anadore.fr/" title="Des purs aussi">connaissance</a> qui 
 </footer><!-- /.post-info -->                <p>Au detour du net sur <a href="http://www.nolife-tv.com/news/976/une-suite-a-planescape-torment" title="Nolife For Ever">Nolife</a> je tombe sur un <a href="http://arstechnica.com/gaming/2012/12/planescape-torment-sequel-finally-in-the-works/" title="L'article en question">article</a>  (<a href="http://colinmccomb.com/?p=157" title="l'origine">lien original</a> merci a Hugo Jacob) parlant d'une suite hypothétique pour <a href="http://fr.wikipedia.org/wiki/Planescape:_Torment" title="Un jeu de malade">Planescape Torment</a> (<a href="http://www.gog.com/gamecard/planescape_torment" title="Achetez le c'est un ordre !">Achetez le !</a>). Un jeu de role, de style occidental ce basant sur l'univers du meme <a href="http://en.wikipedia.org/wiki/Planescape" title="Un setting de malade">nom</a> chez TSR/Wizard of the Coast.</p>
 <p>Et la ...</p>
                 <a class="readmore" href="./planescapetorment.html">read more</a>
+                                </div><!-- /.entry-content -->
+            </article></li>
+                            
+
+                 
+                        <li><article class="hentry">    
+                <header>
+                    <h1><a href="./competence.html" rel="bookmark"
+                           title="Permalink to Competence">Competence</a></h1>
+                </header>
+                
+                <div class="entry-content">
+                <footer class="post-info">
+        <abbr class="published" title="2012-12-03T00:00:00">
+                lun. 03 dÚcembre 2012
+        </abbr>
+
+                <address class="vcard author">
+                By <a class="url fn" href="./author/bussiere.html">Bussiere</a>
+        </address>
+        <p>In <a href="./category/perso.html">Perso</a>. </p>
+<p>tags: <a href="./tag/competence.html">Competence</a><a href="./tag/skill.html">Skill</a></p>
+</footer><!-- /.post-info -->                <p>Sur 20 les competences</p>
+<p>"Serrurie":12
+"Shibari":12,
+"Python":14,
+"Capoeira":12,
+"Photo":12,
+"Escalade":12,
+"Taijutsu":11,
+"Comedie":13,
+"Baratin":15
+"Discussion":14,
+"Conduite":7
+"Cuisine":13,
+"Informatique":14,
+"Hack":12,
+"Jeux":13,
+"Medecine":6
+"Electricité":10,
+"Graphisme":10,
+"Video":8,
+"Comptabilite":8,
+"Droit":10,
+"Fiscalité":11,
+"Bricolage":11 ...</p>
+                <a class="readmore" href="./competence.html">read more</a>
+                                </div><!-- /.entry-content -->
+            </article></li>
+                            
+
+                 
+                        <li><article class="hentry">    
+                <header>
+                    <h1><a href="./different-event-pour-lannee.html" rel="bookmark"
+                           title="Permalink to Different Event pour l'annee">Different Event pour l'annee</a></h1>
+                </header>
+                
+                <div class="entry-content">
+                <footer class="post-info">
+        <abbr class="published" title="2012-12-03T00:00:00">
+                lun. 03 dÚcembre 2012
+        </abbr>
+
+                <address class="vcard author">
+                By <a class="url fn" href="./author/bussiere.html">Bussiere</a>
+        </address>
+        <p>In <a href="./category/blog.html">Blog</a>. </p>
+<p>tags: <a href="./tag/event.html">Event</a><a href="./tag/soiree.html">Soiree</a></p>
+</footer><!-- /.post-info -->                <p>Nuit demonia
+Bonobo
+Stunfest
+Japan expo
+Epitanime
+Vampire ball
+Nuit du hack
+Halloween
+Stage capoeira
+Burning night
+Bal des princesses
+Anniversaire Palais de Tokyo</p>
+                <a class="readmore" href="./different-event-pour-lannee.html">read more</a>
                                 </div><!-- /.entry-content -->
             </article></li>
                             
