@@ -26,8 +26,8 @@ Le but est de mettre une limite a laquelle vous acheterez ou vendrez.
 En gros, il faut 
 
 * ATTENTION :
-    * Alors de un comme pour toute speculation, ne jouez que l'argent dont vous n'avez pas besoin.
-    * De deux meme pour un virement sepa je vous conseille d'utiliser des cartes prépayés ([pcs][5],[transcash][6]).
+    * Alors de un comme pour toute speculation, ne jouez que l'argent dont vous n'avez pas besoin. Sans compter les riques de pertes du a un hack.
+    * De deux meme pour un virement sepa je vous conseille d'utiliser des cartes prépayés ([pcs][5],[transcash][6]). Le bitcoin etant utilisé par des hackers et des gens pas tres net.
 
 
 
