@@ -9,7 +9,7 @@ Tags: bitcoin,crypto,monnaie,economie,libertarian,cypherpunk,achat
 [4]: https://bitcoin-central.net/account/deposit "Approvisionnement"
 [5]: https://www.pcsmastercard.com/ "une carte prepayee"
 [6]: http://www.trans-cash.fr/ "une autre carte prepayee"
-
+[7]: https://www.google.fr/search?q=hack+bitcoin+hacker+news "Quelques exemples"
 [![MoneyMoney it's the richman's world](http://raw.github.com/bussiere/Blog/gh-pages/static/images/Bitcoin_thumb.jpg)][0]
 
 Suite a une demande sur [geekzone][1], je fais donc un tuto sur comment acheter des bitcoins.
@@ -26,7 +26,7 @@ Le but est de mettre une limite a laquelle vous acheterez ou vendrez.
 En gros, il faut 
 
 * ATTENTION :
-    * Alors de un comme pour toute speculation, ne jouez que l'argent dont vous n'avez pas besoin. Sans compter les riques de pertes du a un hack.
+    * Alors de un comme pour toute speculation, ne jouez que l'argent dont vous n'avez pas besoin. Sans compter les riques de pertes du a un [hack][7].
     * De deux meme pour un virement sepa je vous conseille d'utiliser des cartes prépayés ([pcs][5],[transcash][6]). Le bitcoin etant utilisé par des hackers et des gens pas tres net.
 
 
