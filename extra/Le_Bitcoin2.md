@@ -28,7 +28,7 @@ En gros, il faut
 * ATTENTION :
     * Alors de un comme pour toute speculation, ne jouez que l'argent dont vous n'avez pas besoin. Sans compter les riques de pertes du a un [hack][7].
     * De deux meme pour un virement sepa je vous conseille d'utiliser des cartes prépayés ([pcs][5],[transcash][6]). Le bitcoin etant utilisé par des hackers et des gens pas tres net.
-
+    * De meme que votre ordi/connexion a intéret a etre vraiment bien sécurisé vu que voler des bitcoins est tres facile sur un ordi troué.
 
 
 Pour faire un commentaire, inscrivez vous sur github et faite un fork / pull que je validerai.

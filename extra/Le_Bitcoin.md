@@ -1,5 +1,5 @@
 Date: 2012-12-07
-Title: Le bitcoin pour les nuls (Mise a jour le 13 decembre)
+Title: Le bitcoin pour les nuls (Mise a jour le 02 janvier)
 Category: Geek
 Tags: bitcoin,crypto,monnaie,economie,libertarian,cypherpunk
 [0]: http://raw.github.com/bussiere/Blog/gh-pages/static/images/Bitcoin.jpg  "MoneyMoney it's the richman's world"
@@ -45,6 +45,8 @@ Tags: bitcoin,crypto,monnaie,economie,libertarian,cypherpunk
 [101]: http://en.wikipedia.org/wiki/Individualist_anarchism "F00l"
 [38]: https://www.4chan.org/pass "On ne parle pas de 4chan d'habitude mais bon"
 [39]: http://bussiere.github.com/Blog/le-bitcoin-pour-les-nuls-2-le-retour-achat-de-bitcoin.html "Suite"
+[40]: http://fr.wikipedia.org/wiki/Monnaie_fiduciaire "La confiance"
+[41]: http://www.faskil.com/ "Music is my first love ..."
 [![MoneyMoney it's the richman's world](http://raw.github.com/bussiere/Blog/gh-pages/static/images/Bitcoin_thumb.jpg)][0]
 
 Hier au [dernier bar][1], j'ai demandé au patron si il allait accepter un jour le paiement en [bitcoin][3].
@@ -80,6 +82,10 @@ De plus [l'anonymat][26] de ce genre de transaction est aussi tres interessant e
 Par contre il y a quelques defauts :
 Des sites se font fait [hacker][27], et ca reste une experience basé sur du [vent][28]. Meme si je rappel que tres peu de monnaie sont encore [echangeable contre de l'or][29] de nos jours.
 La [confiance][30] etant la base de la [monnaie scripturale][31] de nos jours.
+De maniere generale cela s'appelle la monnaie [fiduciaire][40] (systeme basé sur la confiance) tout depend de votre confiance dans le systeme.
+Bitcoin offre plus de libertés mais moins de garanties. Pas d'organisme centralisateur a qui se plaindre.
+
+De meme que votre ordi/connexion a intéret a etre vraiment bien sécurisé vu que voler des bitcoins est tres facile sur un ordi troué.
 
 De meme que si un jour un des algos de cryptages du bitcoin [tombe][32] la monnaie tombe avec (notamment avec des [calculs quantiques][33]).
 Apres il faut savoir que l'emission de monnaie est un des pouvoirs [regaliens][34] des etats et que 
@@ -92,6 +98,8 @@ Cet article n'engage que moi et j'espere qu'il est juste.
 Edit : mise a jour du 13 decembre : [4CHAN accepte les bitcoins][38] \o/
 
 Edit : Petit Tuto sur l'achat de bitcoin [ici][39]
+
+Edit : Merci a [faskil][41] des remarques
 
 Pour faire un commentaire, inscrivez vous sur github et faite un fork / pull que je validerai.
 
