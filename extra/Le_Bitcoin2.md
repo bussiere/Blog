@@ -12,9 +12,9 @@ Tags: bitcoin,crypto,monnaie,economie,libertarian,cypherpunk,achat
 
 [![MoneyMoney it's the richman's world](http://raw.github.com/bussiere/Blog/gh-pages/static/images/Bitcoin_thumb.jpg)][0]
 
-Suite a une demande sur [geekzone][0], je fais donc un tuto sur comment acheter des bitcoins.
+Suite a une demande sur [geekzone][1], je fais donc un tuto sur comment acheter des bitcoins.
 
-Je recommande ce [site : https://bitcoin-central.net/][2] dont j'avais deja [parlé][3].
+Je recommande ce [site][2] : [https://bitcoin-central.net/][2] dont j'avais deja [parlé][3].
 En gros il a un partenariat avec quelques banques dont le credit mutuel.
 
 Donc faites vous un compte sur ce site puis allez [ici][4] apres.

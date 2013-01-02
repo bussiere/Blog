@@ -44,7 +44,7 @@ Tags: bitcoin,crypto,monnaie,economie,libertarian,cypherpunk
 [100]: http://raw.github.com/bussiere/Blog/gh-pages/static/images/cypherpunk.jpg  "La crypto c'est rigolo"
 [101]: http://en.wikipedia.org/wiki/Individualist_anarchism "F00l"
 [38]: https://www.4chan.org/pass "On ne parle pas de 4chan d'habitude mais bon"
-
+[39]: http://bussiere.github.com/Blog/le-bitcoin-pour-les-nuls-2-le-retour-achat-de-bitcoin.html "Suite"
 [![MoneyMoney it's the richman's world](http://raw.github.com/bussiere/Blog/gh-pages/static/images/Bitcoin_thumb.jpg)][0]
 
 Hier au [dernier bar][1], j'ai demandé au patron si il allait accepter un jour le paiement en [bitcoin][3].
@@ -90,6 +90,8 @@ Une monnaie sans etat ni structure centrale ne peut etre qu'a mon gout une bonne
 Cet article n'engage que moi et j'espere qu'il est juste.
 
 Edit : mise a jour du 13 decembre : [4CHAN accepte les bitcoins][38] \o/
+
+Edit : Petit Tuto sur l'achat de bitcoin [ici][39]
 
 Pour faire un commentaire, inscrivez vous sur github et faite un fork / pull que je validerai.
 
