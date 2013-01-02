@@ -47,6 +47,8 @@ Tags: bitcoin,crypto,monnaie,economie,libertarian,cypherpunk
 [39]: http://bussiere.github.com/Blog/le-bitcoin-pour-les-nuls-2-le-retour-achat-de-bitcoin.html "Suite"
 [40]: http://fr.wikipedia.org/wiki/Monnaie_fiduciaire "La confiance"
 [41]: http://www.faskil.com/ "Music is my first love ..."
+[42]: http://www.dexia.com
+[43]: http://fr.wikipedia.org/wiki/Dexia#.C3.89v.C3.A9nements_r.C3.A9cents
 [![MoneyMoney it's the richman's world](http://raw.github.com/bussiere/Blog/gh-pages/static/images/Bitcoin_thumb.jpg)][0]
 
 Hier au [dernier bar][1], j'ai demandé au patron si il allait accepter un jour le paiement en [bitcoin][3].
@@ -84,6 +86,10 @@ Des sites se font fait [hacker][27], et ca reste une experience basé sur du [ve
 La [confiance][30] etant la base de la [monnaie scripturale][31] de nos jours.
 De maniere generale cela s'appelle la monnaie [fiduciaire][40] (systeme basé sur la confiance) tout depend de votre confiance dans le systeme.
 Bitcoin offre plus de libertés mais moins de garanties. Pas d'organisme centralisateur a qui se plaindre.
+
+De toute maniere ce n'est pas comme si certainnes personnes avaient mis leur argent dans un [organisme][42], qui as accumulé les [erreurs][43] (en restant gentil) plusieurs fois de suite.
+Je rappel que quand l'etat renfloue un organisme ce sont nos impots donc notre argent qui est utilise.
+
 
 De meme que votre ordi/connexion a intéret a etre vraiment bien sécurisé vu que voler des bitcoins est tres facile sur un ordi troué.
 
