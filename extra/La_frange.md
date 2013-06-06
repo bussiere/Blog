@@ -21,4 +21,4 @@ Tres tres bonne ambiance, des gens de tout les milieux sans soucis et de tres jo
 
 [L adresse de la frange][3]
 
-[![Asuka Swimsuit](http://raw.github.com/bussiere/Blog/gh-pages/static/images/frange2_thumb.jpg)] [0] 
+[![Serveuses](http://raw.github.com/bussiere/Blog/gh-pages/static/images/frange2_thumb.jpg)] [0] 
