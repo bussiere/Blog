@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Bussiere Blog</title><link href="http://bussiere.github.com/Blog/" rel="alternate"></link><link href="http://bussiere.github.com/Blog/feeds/Perso.atom.xml" rel="self"></link><id>http://bussiere.github.com/Blog/</id><updated>2012-12-03T00:00:00+01:00</updated><entry><title>Competence</title><link href="http://bussiere.github.com/Blog/competence.html" rel="alternate"></link><updated>2012-12-03T00:00:00+01:00</updated><author><name>Bussiere</name></author><id>tag:bussiere.github.com/Blog,2012-12-03:competence.html</id><summary type="html">&lt;p&gt;Sur 20 les competences&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Bussiere Blog</title><link href="http://bussiere.github.com/Blog/" rel="alternate"></link><link href="http://bussiere.github.com/Blog/feeds%5Cperso.atom.xml" rel="self"></link><id>http://bussiere.github.com/Blog/</id><updated>2012-12-03T00:00:00+01:00</updated><entry><title>Competence</title><link href="http://bussiere.github.com/Blog/competence.html" rel="alternate"></link><updated>2012-12-03T00:00:00+01:00</updated><author><name>Bussiere</name></author><id>tag:bussiere.github.com/Blog,2012-12-03:competence.html</id><summary type="html">&lt;p&gt;Sur 20 les competences&lt;/p&gt;
 &lt;p&gt;"Serrurie":12
 "Shibari":12,
 "Python":14,
