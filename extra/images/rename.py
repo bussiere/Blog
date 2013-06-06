@@ -1,6 +1,6 @@
 import os
 import re
-import Image
+from PIL import Image
 
 
 def resize(nomfi):
@@ -10,7 +10,8 @@ def resize(nomfi):
         im.thumbnail(size, Image.ANTIALIAS)
         outfile = "%s_thumb.jpg"%(nomfi.split(".")[0])
         im.save(outfile, "JPEG")
-    except IOError:
+    except IOError as e :
+        print e
         print "cannot create thumbnail for '%s'" % nomfi
 
 def renamefile(nomfi,i):

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Bussiere Blog</title><link href="http://bussiere.github.com/Blog/" rel="alternate"></link><link href="http://bussiere.github.com/Blog/feeds/perso.atom.xml" rel="self"></link><id>http://bussiere.github.com/Blog/</id><updated>2012-12-03T00:00:00+01:00</updated><entry><title>Competence</title><link href="http://bussiere.github.com/Blog/competence.html" rel="alternate"></link><updated>2012-12-03T00:00:00+01:00</updated><author><name>Bussiere</name></author><id>tag:bussiere.github.com/Blog,2012-12-03:competence.html</id><summary type="html">&lt;p&gt;Sur 20 les competences&lt;/p&gt;
+&lt;p&gt;"Serrurie":12
+"Shibari":12,
+"Python":14,
+"Capoeira":12,
+"Photo":12,
+"Escalade":12,
+"Taijutsu":11,
+"Comedie":13,
+"Baratin":15
+"Discussion":14,
+"Conduite":7
+"Cuisine":13,
+"Informatique":14,
+"Hack":12,
+"Jeux":13,
+"Medecine":6
+"Electricité":10,
+"Graphisme":10,
+"Video":8,
+"Comptabilite":8,
+"Droit":10,
+"Fiscalité":11,
+"Bricolage":11,
+"Musique":10,
+"Plomberie":10,
+"Menuiserie":10,
+"Electronique":10,
+"ConMan":12,
+"Plomberie":10,
+"Prestigiditation":10
+"Magie feu":10,
+"Theatre":10,
+"Impro":12,
+"Linux": 12,
+"Danse":12,
+"Diplomatie":11,
+"Contacts":14
+"Street Cred":14,
+"Occultisme":14,
+"Cryptographie":12,
+"Coréen": 2,
+"Chinois":2,
+"Anglais":14,
+"Allemande":8,
+"Escrime":8,
+"Evenementiel":10,
+"Trouver des infos":14,
+"Securite":12,
+"Escorte":11,
+Et techniquement n'importe avec un peu de temps de la doc et un peu de pratique je peux apprendre.&lt;/p&gt;</summary><category term="Competence"></category><category term="Skill"></category></entry></feed>
