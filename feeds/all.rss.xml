@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bussiere Blog</title><link>http://bussiere.github.com/Blog/</link><description></description><atom:link href="http://bussiere.github.com/Blog/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 06 Jun 2013 00:00:00 +0200</lastBuildDate><item><title>La frange</title><link>http://bussiere.github.com/Blog/la-frange.html</link><description>&lt;p&gt;Donc oui la frange va re ouvrir.&lt;/p&gt;
+&lt;p&gt;C'est un peu un bar mythique, ou l'on pouvait discuter de tout avec des gens tres interessant.
+Là ou j'ai appris le shibari , que j'ai rencontré des gens que je frequente encore 6 ans apres.&lt;/p&gt;
+&lt;p&gt;Tres tres bonne ambiance, des gens de tout les milieux sans soucis et de tres jolies serveuses.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.facebook.com/events/264686893672355/?fref=ts" title="Page Fb de l evenement"&gt;Le lien de l'evenement&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.facebook.com/LaFrangebar" title="Page fb La frange"&gt;La page de la frange&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://goo.gl/maps/1FOVy" title="Google map de la frange"&gt;L adresse de la frange&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://raw.github.com/bussiere/Blog/gh-pages/static/images/frange2.jpg" title="Grande Version"&gt;&lt;img alt="Serveuses" src="http://raw.github.com/bussiere/Blog/gh-pages/static/images/frange2_thumb.jpg" /&gt;&lt;/a&gt; &lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Bussiere</dc:creator><pubDate>Thu, 06 Jun 2013 00:00:00 +0200</pubDate><guid>tag:bussiere.github.com/Blog,2013-06-06:la-frange.html</guid><category>Frange</category><category>Bar</category><category>parano</category></item><item><title>Le bitcoin pour les nuls 2 le retour (Achat de Bitcoin)</title><link>http://bussiere.github.com/Blog/le-bitcoin-pour-les-nuls-2-le-retour-achat-de-bitcoin.html</link><description>&lt;p&gt;&lt;a href="http://raw.github.com/bussiere/Blog/gh-pages/static/images/Bitcoin.jpg" title="MoneyMoney it's the richman's world"&gt;&lt;img alt="MoneyMoney it's the richman's world" src="http://raw.github.com/bussiere/Blog/gh-pages/static/images/Bitcoin_thumb.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Suite a une demande sur &lt;a href="http://www.geekzone.fr/" title="Des vrais aussi"&gt;geekzone&lt;/a&gt;, je fais donc un tuto sur comment acheter des bitcoins.&lt;/p&gt;
+&lt;p&gt;Je recommande ce &lt;a href="https://bitcoin-central.net/" title="all the things i can do"&gt;site&lt;/a&gt; : &lt;a href="https://bitcoin-central.net/" title="all the things i can do"&gt;https://bitcoin-central.net/&lt;/a&gt; dont j'avais deja &lt;a href="http://bussiere.github.com/Blog/le-bitcoin-pour-les-nuls-mise-a-jour-le-13-decembre.html"&gt;parlé&lt;/a&gt;.
+En gros il a un partenariat avec quelques banques dont le credit mutuel.&lt;/p&gt;
+&lt;p&gt;Donc faites vous un compte sur ce site puis allez &lt;a href="https://bitcoin-central.net/account/deposit" title="Approvisionnement"&gt;ici&lt;/a&gt; apres.&lt;/p&gt;
+&lt;p&gt;Approvisionnez votre compte en argent classique, puis vous pourrez passer des ordres de vente / achat.&lt;/p&gt;
+&lt;p&gt;Le but est de mettre une limite a laquelle vous acheterez ou vendrez.&lt;/p&gt;
+&lt;p&gt;En gros, il faut &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ATTENTION :&lt;ul&gt;
+&lt;li&gt;Alors de un comme pour toute speculation, ne jouez que l'argent dont vous n'avez pas besoin. Sans compter les riques de pertes du a un &lt;a href="https://www.google.fr/search?q=hack+bitcoin+hacker+news" title="Quelques exemples"&gt;hack&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;De deux meme pour un virement sepa je vous conseille d'utiliser des cartes prépayés (&lt;a href="https://www.pcsmastercard.com/" title="une carte prepayee"&gt;pcs&lt;/a&gt;,&lt;a href="http://www.trans-cash.fr/" title="une autre carte prepayee"&gt;transcash&lt;/a&gt;). Le bitcoin etant utilisé par des hackers et des gens pas tres net.&lt;/li&gt;
+&lt;li&gt;De meme que votre ordi/connexion a intéret a etre vraiment bien sécurisé vu que voler des bitcoins est tres facile sur un ordi troué.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Pour faire un commentaire, inscrivez vous sur github et faite un fork / pull que je validerai.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Bussiere</dc:creator><pubDate>Wed, 02 Jan 2013 00:00:00 +0100</pubDate><guid>tag:bussiere.github.com/Blog,2013-01-02:le-bitcoin-pour-les-nuls-2-le-retour-achat-de-bitcoin.html</guid><category>bitcoin</category><category>crypto</category><category>monnaie</category><category>economie</category><category>libertarian</category><category>cypherpunk</category><category>achat</category></item><item><title>Petite Puterie en java</title><link>http://bussiere.github.com/Blog/petite-puterie-en-java.html</link><description>&lt;p&gt;Suite a ce &lt;a href="http://sametmax.com/loperateur-not-bitwise-ou-tilde-en-javascript/" title="Tres bon blog"&gt;post&lt;/a&gt; sur le site de &lt;a href="http://sametmax.com" title="Tres bon site"&gt;sam et max&lt;/a&gt;, j'ai eu l'idée d'une petite puterie en java.&lt;/p&gt;
+&lt;p&gt;Je vous la livre :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="kt"&gt;int&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;&amp;lt;&lt;/span&gt; &lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="o"&gt;~&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;))&lt;/span&gt;
+&lt;span class="p"&gt;{&lt;/span&gt;
+    &lt;span class="n"&gt;System&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;out&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;println&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Bussiere</dc:creator><pubDate>Fri, 28 Dec 2012 00:00:00 +0100</pubDate><guid>tag:bussiere.github.com/Blog,2012-12-28:petite-puterie-en-java.html</guid><category>geek</category><category>java</category><category>prog</category></item><item><title>Les Query en django</title><link>http://bussiere.github.com/Blog/les-query-en-django.html</link><description>&lt;p&gt;Pour ceux qui ne sont pas au courant, Django c'est le bien.&lt;/p&gt;
+&lt;p&gt;Sauf que je galere tout le temps avec les query, du coup cet article va me servir de pense bete a moi aussi et de tutorial pour vous.
+Je m'appui&lt;/p&gt;
+&lt;p&gt;Donc :&lt;/p&gt;
+&lt;p&gt;Recuperer tout les objets d'un type :
+all_entries = Entry.objects.all()&lt;/p&gt;
+&lt;p&gt;Mettre un filtre precis sur un objet :
+(ici le = signifie exactement)
+Entry.objects.filter(pub_date__year=2006)&lt;/p&gt;
+&lt;p&gt;Tout les objets ne correspondant pas a une requete :
+(ici le = signifie exactement)
+Entry.objects.exclude(pub_date__year=2006)&lt;/p&gt;
+&lt;p&gt;Pour des questions de lisibilité il vaut mieux enchainer les query :&lt;/p&gt;
+&lt;p&gt;q1 = Entry.objects.filter(headline__startswith="What")
+q2 = q1.exclude(pub_date__gte=datetime.date.today())
+q3 = q1.filter(pub_date__gte=datetime.date.today())
+q4 = q2.filter(pub_date__year=2006)&lt;/p&gt;
+&lt;p&gt;Pour obtenir un objet precis :
+one_entry = Entry.objects.get(pk=1)&lt;/p&gt;
+&lt;p&gt;Par contre attention la requete leve une erreur si cette requete ne renvois rien.&lt;/p&gt;
+&lt;p&gt;Si vous n'etes pas sur il vaut mieux utiliser :
+Ceci renverra null ou quelquechose si elle existe et pas d'erreur
+Entry.objects.filter(pk__exact=1)&lt;/p&gt;
+&lt;p&gt;Des recherches qui contiennent un bout de texte (like en sql) :&lt;/p&gt;
+&lt;h1&gt;toute les annees 2000 (qui contiennent 20 donc)&lt;/h1&gt;
+&lt;h1&gt;mais peut ramener 1920&lt;/h1&gt;
+&lt;p&gt;Entry.objects.filter(pub_date__year__contains='20')&lt;/p&gt;
+&lt;h1&gt;ne ramene que les annees spot 2000 (inclus) :&lt;/h1&gt;
+&lt;p&gt;Entry.objects.filter(pub_date__year__startswith='20')&lt;/p&gt;
+&lt;p&gt;Requete particuliere et multiple :&lt;/p&gt;
+&lt;h1&gt;Ramene les entrees avec les  id 1, 4 et 7&lt;/h1&gt;
+&lt;p&gt;Entry.objects.filter(pk__in=[1,4,7])&lt;/p&gt;
+&lt;h1&gt;Ramene les entrees avec  id &amp;gt; 14&lt;/h1&gt;
+&lt;p&gt;Entry.objects.filter(pk__gt=14)&lt;/p&gt;
+&lt;p&gt;Requete avec des relations :
+Blog.objects.filter(entry__authors__name='Lennon')&lt;/p&gt;
+&lt;p&gt;Source :
+https://docs.djangoproject.com/en/dev/topics/db/queries/&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Bussiere</dc:creator><pubDate>Wed, 19 Dec 2012 00:00:00 +0100</pubDate><guid>tag:bussiere.github.com/Blog,2012-12-19:les-query-en-django.html</guid><category>Django</category><category>Query</category><category>Sql</category></item><item><title>Resister</title><link>http://bussiere.github.com/Blog/resister.html</link><description>&lt;p&gt;"Résister, c'est créer"  &lt;a href="http://fr.wikipedia.org/wiki/Miguel_Benasayag" title="Personne Interessante"&gt;Miguel-Benasayag&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Bussiere</dc:creator><pubDate>Wed, 19 Dec 2012 00:00:00 +0100</pubDate><guid>tag:bussiere.github.com/Blog,2012-12-19:resister.html</guid><category>Resister</category><category>Creation</category><category>Resistance</category></item><item><title>Fuit moi je te suit, Suit moi je te fuit.</title><link>http://bussiere.github.com/Blog/fuit-moi-je-te-suit-suit-moi-je-te-fuit.html</link><description>&lt;p&gt;Si il y a toujours eu un truc qui m'a gonflé, c'est cette psychologie de fuit moi je te suit, suit moi je te fuit.
+Une perte de temps , d'energie et de moyens. Les choses seraient tellement plus simple si on arrivait a s'en passer.
+Ce genre de comportement absurde, pour la personne que je suis qui aime quand meme bien optimiser les choses me herisse le poil au plus haut point.&lt;/p&gt;
+&lt;p&gt;Bref, malheureusement on est obligé de faire avec helas. Et les gens le prennent mal quand on leur fait remarquer.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://raw.github.com/bussiere/Blog/gh-pages/static/images/rat.jpg" title="J'aime la danse..."&gt;&lt;img alt="Les rats d'operas" src="http://raw.github.com/bussiere/Blog/gh-pages/static/images/rat_thumb.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Pour faire un commentaire, inscrivez vous sur github et faite un fork / pull que je validerai.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Bussiere</dc:creator><pubDate>Thu, 13 Dec 2012 00:00:00 +0100</pubDate><guid>tag:bussiere.github.com/Blog,2012-12-13:fuit-moi-je-te-suit-suit-moi-je-te-fuit.html</guid><category>Jeunette</category><category>Psychologie</category><category>Amours</category></item><item><title>Le bitcoin pour les nuls (Mise a jour le 13 decembre)</title><link>http://bussiere.github.com/Blog/le-bitcoin-pour-les-nuls-mise-a-jour-le-13-decembre.html</link><description>&lt;p&gt;&lt;a href="http://raw.github.com/bussiere/Blog/gh-pages/static/images/Bitcoin.jpg" title="MoneyMoney it's the richman's world"&gt;&lt;img alt="MoneyMoney it's the richman's world" src="http://raw.github.com/bussiere/Blog/gh-pages/static/images/Bitcoin_thumb.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hier au &lt;a href="http://www.dernierbar.com/" title="Des vrais"&gt;dernier bar&lt;/a&gt;, j'ai demandé au patron si il allait accepter un jour le paiement en &lt;a href="http://fr.wikipedia.org/wiki/Bitcoin" title="Chaud a comprendre"&gt;bitcoin&lt;/a&gt;.
+Et une &lt;a href="http://anadore.fr/" title="Des purs aussi"&gt;connaissance&lt;/a&gt; qui etait la ne connaissait pas non plus les bitcoin, du coup j'ai du expliquer vite fait ce qu'etait les &lt;a href="http://fr.wikipedia.org/wiki/Bitcoin" title="Chaud a comprendre"&gt;bitcoin&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Aujourd'hui je tombe sur cet &lt;a href="https://bitcointalk.org/index.php?topic=129461.0" title="\o/"&gt;article&lt;/a&gt; (en gros un &lt;a href="https://fr.bitcoin-central.net/" title="Un site d'echange de bitcoin"&gt;site&lt;/a&gt; d'echange de bitcoin a passé un accord avec des banques dont le credit mutuel pour avoir un &lt;a href="http://fr.wikipedia.org/wiki/Licence_bancaire" title="La license bancaire"&gt;statut de banque&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://raw.github.com/bussiere/Blog/gh-pages/static/images/cypherpunk.jpg" title="La crypto c'est rigolo"&gt;&lt;img alt="La crypto c'est rigolo" src="http://raw.github.com/bussiere/Blog/gh-pages/static/images/cypherpunk_thumb.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Donc qu'est ce que le bitcoin et pourquoi cela satisfait le vieux &lt;a href="http://en.wikipedia.org/wiki/Libertarianism" title="I did it my waaay"&gt;libertarien&lt;/a&gt; &lt;a href="http://en.wikipedia.org/wiki/Anarcho-capitalism" title="Money makes the world goes round"&gt;anarchiste capitaliste&lt;/a&gt; &lt;a href="http://fr.wikipedia.org/wiki/Audrey_Tang" title="La voie de l'hermaphrodite"&gt;individuel&lt;/a&gt; &lt;a href="http://en.wikipedia.org/wiki/Kevin_Mitnick" title="Un vieux de la veille"&gt;hacker&lt;/a&gt; &lt;a href="http://en.wikipedia.org/wiki/Cypherpunk" title="Alice et bob ils ont baisés ou pas ?"&gt;cypherpunk&lt;/a&gt; et fan de &lt;a href="http://en.wikipedia.org/wiki/William_Gibson" title="Le pere"&gt;cyberpunk&lt;/a&gt; que je suis :&lt;/p&gt;
+&lt;p&gt;Je vais donc tenter de vulgariser l'&lt;a href="http://fr.wikipedia.org/wiki/Bitcoin" title="Chaud"&gt;article de wikipedia&lt;/a&gt; :&lt;/p&gt;
+&lt;p&gt;Le bitcoin est donc une &lt;a href="https://www.x.com/devzone/articles/how-crypto-currencies-transform-money" title="Les maths servent a tout ..."&gt;crypto monnaie&lt;/a&gt; &lt;a href="http://en.wikipedia.org/wiki/Peer-to-peer" title="Principes de bases"&gt;P2P&lt;/a&gt; sans etats ni banques &lt;a href="http://fr.wikipedia.org/wiki/Banque_de_France" title="A marnes la vallée"&gt;centralisateurs&lt;/a&gt; derriere.
+En gros, l'on peut acheter des bitcoins ou en créer en faisant tourner des &lt;a href="http://fr.wikipedia.org/wiki/Hashage" title="Parmentier"&gt;calculs de cryptographies asymetriques&lt;/a&gt; servant a valider le systeme.
+La validation des transactions de bitcoin par calculs cryptographiques en pretant de son temps machine, entraine en recompense la creation de bitcoin pour le preteur de machine.
+Sachant que ces validations sont prevues pour etre de plus en plus dur a effectuer et que la masse monetaire des bitcoins est prevus pour etre &lt;a href="https://bitcointalk.org/index.php?topic=3508.0" title="Masse monetaire"&gt;finit&lt;/a&gt;.
+En encore plus gros : Les bitcoins sont une monnaie decentralisée, n'appartenant a personne, ne dependant d'aucune structure et anonyme.&lt;/p&gt;
+&lt;p&gt;Et pourquoi c'est &lt;a href="http://aldoniel.free.fr/ImagesSite/latex04946.jpg" title="Le monde de monsieur fred est une emission culturelle."&gt;bieeeeeeeeeen&lt;/a&gt; ? :&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/Individualist_anarchism" title="F00l"&gt;&lt;img alt="A" src="http://raw.github.com/bussiere/Blog/gh-pages/static/images/200px-Mutualismo_thumb.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Trainant de temps en temps dans l'&lt;a href="http://www.google.fr/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=1&amp;amp;cad=rja&amp;amp;ved=0CC8QFjAA&amp;amp;url=http%3A%2F%2Fwww.galagofilms.com%2F&amp;amp;ei=BQvCUNW0M8ek0QXV24DIBg&amp;amp;usg=AFQjCNGA5v2jxz3RsrtfFgP68u_cwhTbqg" title="Pas un truc de pédé."&gt;industrie&lt;/a&gt; du &lt;a href="http://www.google.fr/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=1&amp;amp;cad=rja&amp;amp;ved=0CDEQFjAA&amp;amp;url=http%3A%2F%2Fdsxred.com%2F&amp;amp;ei=TAvCUOqlFsaK0AW2vYHYAg&amp;amp;usg=AFQjCNF_cqpHQVpBz__mNYO_WyNd1VHfHA" title="Un jour ..."&gt;sexe&lt;/a&gt;, j'ai souvent éte confronté a une certaine hypocrisie.&lt;/p&gt;
+&lt;p&gt;Entre paypal qui peut vous fermer votre compte &lt;a href="http://news.ycombinator.com/item?id=1678582" title="Tout le monde peut y passer."&gt;unilateralement&lt;/a&gt; et &lt;a href="https://www.google.fr/search?q=paypal+account+blocked+hackernews&amp;amp;ie=utf-8&amp;amp;oe=utf-8&amp;amp;aq=t&amp;amp;rls=org.mozilla:fr:official&amp;amp;client=firefox-a#hl=fr&amp;amp;client=firefox-a&amp;amp;hs=2sL&amp;amp;tbo=d&amp;amp;rls=org.mozilla:fr%3Aofficial&amp;amp;sclient=psy-ab&amp;amp;q=paypal+account+blocked+&amp;amp;oq=paypal+account+blocked+&amp;amp;gs_l=serp.3..0i19j0i30i19l3.24763.24763.2.24936.1.1.0.0.0.0.82.82.1.1.0...0.0...1c.1.-QA-IkC7Wl0&amp;amp;pbx=1&amp;amp;bav=on.2,or.r_gc.r_pw.r_qf.&amp;amp;fp=eb7fdcdeee9729ed&amp;amp;bpcl=39650382&amp;amp;biw=1680&amp;amp;bih=866" title="mouais"&gt;bloquer&lt;/a&gt; votre argent et vous faire attendre &lt;a href="http://news.cnet.com/8301-1023_3-57509148-93/paypal-exec-gets-personally-involved-in-account-dispute/" title="Et cela arrive souvent"&gt;X mois&lt;/a&gt;.
+Les banques qui peuvent vous virer parce que votre commerce &lt;a href="http://www.leparisien.fr/reactions/argenteuil-95100/le-club-libertin-prie-de-changer-de-banque-02-10-2012-2196581.php" title="pas comme si il y avait de nombreux gens bossant dans la banque en soirée sm hein ..."&gt;ne leur plait pas&lt;/a&gt; du jour au lendemain.&lt;/p&gt;
+&lt;p&gt;Sans compter les &lt;a href="http://lexpansion.lexpress.fr/investissement/frais-abusifs-les-banques-de-nouveau-epinglees_241451.html" title="Banquignol"&gt;marges&lt;/a&gt; que ces intermediaires se prennent sans vrai raisons (frais pour immobilisme de compte, frais pour mouvement sur le compte).&lt;/p&gt;
+&lt;p&gt;De plus &lt;a href="http://en.wikipedia.org/wiki/Tor_%28anonymity_network%29" title="A utiliser"&gt;l'anonymat&lt;/a&gt; de ce genre de transaction est aussi tres interessant en plus d'etre internationnal.&lt;/p&gt;
+&lt;p&gt;Par contre il y a quelques defauts :
+Des sites se font fait &lt;a href="http://it.slashdot.org/story/12/05/26/033242/hacked-bitcoin-financial-site-had-no-backups" title="bande d'amateur"&gt;hacker&lt;/a&gt;, et ca reste une experience basé sur du &lt;a href="http://fr.wikipedia.org/wiki/Confiance" title="Mouais"&gt;vent&lt;/a&gt;. Meme si je rappel que tres peu de monnaie sont encore &lt;a href="http://fr.wikipedia.org/wiki/%C3%89talon-or" title="Tout sur du vent"&gt;echangeable contre de l'or&lt;/a&gt; de nos jours.
+La &lt;a href="http://fr.wikipedia.org/wiki/Monnaie_de_n%C3%A9cessit%C3%A9" title="Comme quoi"&gt;confiance&lt;/a&gt; etant la base de la &lt;a href="http://fr.wikipedia.org/wiki/Monnaie_scripturale" title="Toujours du vent"&gt;monnaie scripturale&lt;/a&gt; de nos jours.
+De maniere generale cela s'appelle la monnaie &lt;a href="http://fr.wikipedia.org/wiki/Monnaie_fiduciaire" title="La confiance"&gt;fiduciaire&lt;/a&gt; (systeme basé sur la confiance) tout depend de votre confiance dans le systeme.
+Bitcoin offre plus de libertés mais moins de garanties. Pas d'organisme centralisateur a qui se plaindre.&lt;/p&gt;
+&lt;p&gt;De toute maniere ce n'est pas comme si certainnes personnes avaient mis leur argent dans un &lt;a href="http://www.dexia.com"&gt;organisme&lt;/a&gt;, qui as accumulé les &lt;a href="http://fr.wikipedia.org/wiki/Dexia#.C3.89v.C3.A9nements_r.C3.A9cents"&gt;erreurs&lt;/a&gt; (en restant gentil) plusieurs fois de suite.
+Je rappel que quand l'etat renfloue un organisme ce sont nos impots donc notre argent qui est utilise.&lt;/p&gt;
+&lt;p&gt;De meme que votre ordi/connexion a intéret a etre vraiment bien sécurisé vu que voler des bitcoins est tres facile sur un ordi troué.&lt;/p&gt;
+&lt;p&gt;De meme que si un jour un des algos de cryptages du bitcoin &lt;a href="http://fr.wikipedia.org/wiki/Rivest_Shamir_Adleman#Attaques" title="Exemples"&gt;tombe&lt;/a&gt; la monnaie tombe avec (notamment avec des &lt;a href="http://fr.wikipedia.org/wiki/Calculateur_quantique" title="Pas demain la veille mais bon."&gt;calculs quantiques&lt;/a&gt;).
+Apres il faut savoir que l'emission de monnaie est un des pouvoirs &lt;a href="http://www.wikiberal.org/wiki/Fonctions_r%C3%A9galiennes#Le_cas_particulier_de_la_monnaie" title="Frapper la monnaie = Pouvoir"&gt;regaliens&lt;/a&gt; des etats et que 
+ceux ci sont tres &lt;a href="http://en.wikipedia.org/wiki/E-gold#2007_indictment" title="On ne plaisante pas avec cela"&gt;chatouilleux&lt;/a&gt; sur la question (il suffit de voir les &lt;a href="http://fr.wikipedia.org/wiki/Faux-monnayage#Mesures_r.C3.A9pressives" title="Menaces sur l'ordre publique"&gt;peines des faux monnayeurs&lt;/a&gt;).
+La monnaie etant un bon moyen de controler les citoyens d'un etat et d'imposer un ordre social (voire une &lt;a href="https://www.google.fr/search?q=loi+pornographie&amp;amp;ie=utf-8&amp;amp;oe=utf-8&amp;amp;aq=t&amp;amp;rls=org.mozilla:fr:official&amp;amp;client=firefox-a#hl=fr&amp;amp;client=firefox-a&amp;amp;hs=kwg&amp;amp;tbo=d&amp;amp;rls=org.mozilla:fr%3Aofficial&amp;amp;sclient=psy-ab&amp;amp;q=%22une+loi+nouvelle+rend+la+production+plus+difficile+%22+classement&amp;amp;oq=%22une+loi+nouvelle+rend+la+production+plus+difficile+%22+classement&amp;amp;gs_l=serp.3...9701.13151.2.13366.19.15.3.0.0.3.562.5639.2-1j2j7j3.13.0...0.0...1c.1.GDB1U2brWdo&amp;amp;pbx=1&amp;amp;bav=on.2,or.r_gc.r_pw.r_qf.&amp;amp;fp=eb7fdcdeee9729ed&amp;amp;bpcl=39650382&amp;amp;biw=1680&amp;amp;bih=838" title="Mouais"&gt;pseudo morale&lt;/a&gt; contre un controle de l'argent).
+Une monnaie sans etat ni structure centrale ne peut etre qu'a mon gout une bonne monnaie.&lt;/p&gt;
+&lt;p&gt;Cet article n'engage que moi et j'espere qu'il est juste.&lt;/p&gt;
+&lt;p&gt;Edit : mise a jour du 13 decembre : &lt;a href="https://www.4chan.org/pass" title="On ne parle pas de 4chan d'habitude mais bon"&gt;4CHAN accepte les bitcoins&lt;/a&gt; \o/&lt;/p&gt;
+&lt;p&gt;Edit : Petit Tuto sur l'achat de bitcoin &lt;a href="http://bussiere.github.com/Blog/le-bitcoin-pour-les-nuls-2-le-retour-achat-de-bitcoin.html" title="Suite"&gt;ici&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Edit : Merci a &lt;a href="http://www.faskil.com/" title="Music is my first love ..."&gt;faskil&lt;/a&gt; des remarques&lt;/p&gt;
+&lt;p&gt;Pour faire un commentaire, inscrivez vous sur github et faite un fork / pull que je validerai.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Bussiere</dc:creator><pubDate>Fri, 07 Dec 2012 00:00:00 +0100</pubDate><guid>tag:bussiere.github.com/Blog,2012-12-07:le-bitcoin-pour-les-nuls-mise-a-jour-le-13-decembre.html</guid><category>bitcoin</category><category>crypto</category><category>monnaie</category><category>economie</category><category>libertarian</category><category>cypherpunk</category></item><item><title>PlaneScapeTorment</title><link>http://bussiere.github.com/Blog/planescapetorment.html</link><description>&lt;p&gt;Au detour du net sur &lt;a href="http://www.nolife-tv.com/news/976/une-suite-a-planescape-torment" title="Nolife For Ever"&gt;Nolife&lt;/a&gt; je tombe sur un &lt;a href="http://arstechnica.com/gaming/2012/12/planescape-torment-sequel-finally-in-the-works/" title="L'article en question"&gt;article&lt;/a&gt;  (&lt;a href="http://colinmccomb.com/?p=157" title="l'origine"&gt;lien original&lt;/a&gt; merci a Hugo Jacob) parlant d'une suite hypothétique pour &lt;a href="http://fr.wikipedia.org/wiki/Planescape:_Torment" title="Un jeu de malade"&gt;Planescape Torment&lt;/a&gt; (&lt;a href="http://www.gog.com/gamecard/planescape_torment" title="Achetez le c'est un ordre !"&gt;Achetez le !&lt;/a&gt;). Un jeu de role, de style occidental ce basant sur l'univers du meme &lt;a href="http://en.wikipedia.org/wiki/Planescape" title="Un setting de malade"&gt;nom&lt;/a&gt; chez TSR/Wizard of the Coast.&lt;/p&gt;
+&lt;p&gt;Et la plein de choses me viennent en memoire. Déja l'univers de base du jeux de role a lui même est génialissime. Il s'agit de Sigil, une ville a la croisée des plans.&lt;/p&gt;
+&lt;p&gt;Dans l'univers d'add, il y a plusieurs settings :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://fr.wikipedia.org/wiki/Greyhawk" title="Passez moi le celte"&gt;GreyHawk&lt;/a&gt; : plutot classique et &lt;a href="http://img194.imageshack.us/img194/8928/sachas.jpg" title="Un vrai, un tatoueur"&gt;celtique&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://fr.wikipedia.org/wiki/Royaumes_oubli%C3%A9s" title="Un setting plutot classique"&gt;Forgotten Realms&lt;/a&gt; : Classique mais devenus le setting officiel, avec une tone de roman dans son univers dont la serie &lt;a href="http://www.google.fr/search?q=pseudo+drizzt&amp;amp;hl=fr&amp;amp;gbv=2&amp;amp;gs_l=heirloom-hp.3...9032.12735.0.12907.17.11.0.3.3.0.656.1203.2-1j1j0j1.3.0...0.0...1c.1.8JGDSHhX5tc&amp;amp;oq=pseudo+drizzt" title="Tres original vraiment"&gt;cultissime&lt;/a&gt; de l'&lt;a href="http://fr.wikipedia.org/wiki/Drizzt_Do'Urden" title="Drizzy"&gt;elfe noir&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Dark_Sun" title="Un setting tres interessant"&gt;DarkSun&lt;/a&gt; : Du Post Apo medieval ou les dieux ce sont barrés et les hobbits sont &lt;a href="http://raw.github.com/bussiere/Blog/gh-pages/static/images/baldr2988.png" title="Hobbits cannibales"&gt;cannibales&lt;/a&gt;, sur un monde desertique a la mad max.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Spelljammer" title="Mon ADD chez les cosmonautes"&gt;SpellJammer&lt;/a&gt; : Add in &lt;a href="http://www.youtube.com/watch?v=WExqkx1ogGI" title="Spaaaaace"&gt;Spaaaaaaaaaace&lt;/a&gt; (ou certains objets magiques peuvent servir de carburant a vaisseaux spatiaux).&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://fr.wikipedia.org/wiki/Lancedragon" title="De l'epique en barre"&gt;LanceDragon&lt;/a&gt; : Un univers épique ou la part belle est faite a la &lt;a href="http://en.wikipedia.org/wiki/Margaret_Weis" title="Un des auteurs"&gt;narration&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Chaque setting est un &lt;a href="http://www.wizards.com/dnd/images/alumni_planes1.jpg" title="Vous etes ici."&gt;plan&lt;/a&gt; de l'univers d'add, sachant que en plus il y a des plans par thème en plus des settings. Celui des démons, du feu, des &lt;a href="http://teamwingman.net/uploads/bu/mahamoti_djinn1.jpg" title="Tonique"&gt;djinns&lt;/a&gt;, de la pierre, des &lt;a href="http://images.ados.fr/divers/photo/8085295808/galerie-creatures/illithids-todd-lockwood-165198a30.jpg" title="Cthulhu"&gt;illithids&lt;/a&gt;, et certains sont squattés par des entités (dieux, &lt;a href="http://www.tsrinfo.net/archive/ps/ps-uncaged.jpg" title="Le bizarre est la norme."&gt;trucs&lt;/a&gt;, peuples).&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.dakkadakka.com/dakkaforum/posts/list/60/280295.page" title="Un gros Bordel"&gt;&lt;img alt="Plane Plan Planes ADD" src="http://raw.github.com/bussiere/Blog/gh-pages/static/images/planes_thumb.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Donc un bon gros &lt;a href="http://1.bp.blogspot.com/_SniTwfm5BwE/SxRNUJeq_UI/AAAAAAAAB5w/lFdNkYDQd_Y/s1600/The+Multiverse.gif" title="Jolie mais bordelique"&gt;bordel&lt;/a&gt; des familles les plans. Bah Sigil c'est la ville qui se trouve au milieu de tout ca.
+Et a ADD des que l'on est un peu &lt;a href="http://lh5.ggpht.com/_ozUjxZJCZ0I/Smd9IpLnyQI/AAAAAAAABAA/ft62Jgq1Zcc/Epic_Level_Abyss.jpg" title="C est un peu ca la vie d'aventurier."&gt;puissant&lt;/a&gt; on commence a se ballader entre les plans. Du coup a Sigil les gens sont de niveaux tres respectables et ont quand meme pas mal de bouteille. Par contre les accidents peuvent arriver et un clampin peut se retrouver ici sans comprendre ce qui lui arrive. Et meme la si il survit c'est qu'il est un minimun doué.&lt;/p&gt;
+&lt;p&gt;Sigil pour moi c'est un peu la france, beaucoup de cultures differentes qui viennent se mixer / cohabiter / se taper dessus. La ville etant tenue par une dame assez particuliere, c'est un terrain neutre.
+Qui dit terrain neutre dit intrigues / coup tordus entre &lt;a href="http://en.wikipedia.org/wiki/Faction_(Planescape)" title="On se croirait a l'ump"&gt;les camps&lt;/a&gt; de tout les plans, alliance, amitiés et meme  amours entre gens tres differents.&lt;/p&gt;
+&lt;p&gt;C'est une sorte de &lt;a href="http://guy.com/a/wp-content/uploads/2011/02/watchmen-cover1.jpg" title="Un bon meta univers."&gt;méta universe&lt;/a&gt; ou tout est possible.&lt;/p&gt;
+&lt;p&gt;A lire ma petite description vous avez du deviner que je suis fan de cet univers. Et j'ai été aux anges quand j'ai joué a ce jeu. Il rend a merveille la &lt;a href="http://www.deviantart.com/download/59001228/Sigil_with_Key_by_zen79.jpg" title="Et encore ..."&gt;compléxité de l'univers&lt;/a&gt;, on retrouve des trucs &lt;a href="http://www.striemer.org/scales-of-war/images/rat-swarm.jpg" title="Des rats particuliers ..."&gt;wtf&lt;/a&gt; qui font le charme de l'univers. Mais vraiment &lt;a href="http://3.bp.blogspot.com/_rRsqSgg6S4E/S_uy54oinVI/AAAAAAAAACw/gtCCbyUC5xE/s1600/nordom.jpg" title="Un des perso barré"&gt;wtf&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Un univers n'est rien sans  &lt;a href="http://www.chartgeek.com/wp-content/uploads/2012/11/firefly-characters-chart.jpg" title="Un petit exemple"&gt;personnages&lt;/a&gt;. Et la les createurs ont fait tres fort. Le heros est &lt;a href="https://www.google.fr/search?q=precription+de+gilligan&amp;amp;sugexp=chrome,mod=10&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8#hl=fr&amp;amp;safe=off&amp;amp;tbo=d&amp;amp;sclient=psy-ab&amp;amp;q=%22Prescription+de+Gilligan%22&amp;amp;oq=%22Prescription+de+Gilligan%22&amp;amp;gs_l=serp.3...5751.7807.1.8082.4.4.0.0.0.0.60.194.4.4.0...0.0...1c.1.HfIqB6MqfH0&amp;amp;pbx=1&amp;amp;bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&amp;amp;fp=7a9f5ca6471ef8d0&amp;amp;bpcl=39468505&amp;amp;biw=1680&amp;amp;bih=935" title="Cliche et pourtant ..."&gt;amnésique&lt;/a&gt;, ficelle classique scenaristique sauf que la cette ficelle les createurs te la prenne, te la retourne et t'en font un pont qui conduit tout l'histoire sans probleme. Pour ne pas spoiler il est normal que le heros soit amnésique, cela le définit et le gameplay est meme construit dessus.&lt;/p&gt;
+&lt;p&gt;Le heros est juste &lt;a href="http://en.wikipedia.org/wiki/The_Nameless_One" title="Un des rares heros amnesique interessant"&gt;génial&lt;/a&gt; dans sa construction, apres les accolytes le sont aussi, entre le &lt;a href="http://en.wikipedia.org/wiki/Morte" title="un personnage mordant"&gt;sidekick crane volant&lt;/a&gt; a l'humour &lt;a href="http://planescape.outshine.com/crap.planescape-torment.org/taunts.html" title="Quelques Taunts"&gt;ravageur&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Des persos bien wtf comme une &lt;a href="http://torment.wikia.com/wiki/Fall-from-Grace" title="Un perso interessant"&gt;succube pretresse de concept&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Et je vous rassure les intrigues sont a la hauteur du reste, d'ailleurs la caracteristique la plus importante du jeu est la &lt;a href="http://torment.wikia.com/wiki/Attributes#Wisdom" title="Limite l'attribut le plus important."&gt;sagesse&lt;/a&gt; elle seule vous permettra réellement de bien finir le jeu.&lt;/p&gt;
+&lt;p&gt;Une ambiance a tomber par terre, un scenario génial, des dialogues magnifiques, un gameplay interessant.
+Et encore en bidouillant le jeu des &lt;a href="http://spellholdstudios.net/ie/pst-ub" title="Des malades"&gt;malades&lt;/a&gt; ce sont rendus compte qu'il y avait pleins de &lt;a href="http://readme.spellholdstudios.net/PSTUB_Readme.html" title="Dire qu'il y en avait plus"&gt;quetes non finies&lt;/a&gt;.
+Bref les concepteurs avaient encore pas mal d'idés pour ce jeu, c'est pour ca que j'ecris ca et que je suis pret a donner beaucoup de &lt;a href="http://www.liveforfilms.com/wp-content/uploads/2010/09/Black-Knight-monty-python.jpg" title="Just a Scratch"&gt;bras&lt;/a&gt; pour une suite (pas les miens j'en aurai besoin pour jouer).&lt;/p&gt;
+&lt;p&gt;Bref messieurs je vous aime avec la &lt;a href="http://www.google.fr/imgres?um=1&amp;amp;hl=fr&amp;amp;safe=off&amp;amp;tbo=d&amp;amp;authuser=0&amp;amp;biw=1680&amp;amp;bih=935&amp;amp;tbm=isch&amp;amp;tbnid=zt70JGOoqgPyUM:&amp;amp;imgrefurl=http://www.wall321.com/Animals/Dragons/dice_lips_mouth_dungeons_and_dragons_1680x1050_wallpaper_44972&amp;amp;docid=EfXTFxl97s00UM&amp;amp;imgurl=http://www.wall321.com/thumbnails/detail/20120613/dice%252520lips%252520mouth%252520dungeons%252520and%252520dragons%2525201680x1050%252520wallpaper_www.wall321.com_48.jpg&amp;amp;w=800&amp;amp;h=500&amp;amp;ei=2jO_UKW9C-GR0QHlyIDwDw&amp;amp;zoom=1&amp;amp;iact=rc&amp;amp;dur=492&amp;amp;sig=109217122160625085841&amp;amp;page=1&amp;amp;tbnh=141&amp;amp;tbnw=229&amp;amp;start=0&amp;amp;ndsp=47&amp;amp;ved=1t:429,r:0,s:0,i:83&amp;amp;tx=144&amp;amp;ty=54" title="Je vous aime ..."&gt;bouche&lt;/a&gt; si vous faites une suite.&lt;/p&gt;
+&lt;p&gt;Pour faire un commentaire, inscrivez vous sur github et faite un fork / pull que je validerai.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Bussiere</dc:creator><pubDate>Tue, 04 Dec 2012 00:00:00 +0100</pubDate><guid>tag:bussiere.github.com/Blog,2012-12-04:planescapetorment.html</guid><category>RPG</category><category>ADD</category><category>PC</category><category>Histoire de tonton Bussiere</category></item><item><title>Competence</title><link>http://bussiere.github.com/Blog/competence.html</link><description>&lt;p&gt;Sur 20 les competences&lt;/p&gt;
+&lt;p&gt;"Serrurie":12
+"Shibari":12,
+"Python":14,
+"Capoeira":12,
+"Photo":12,
+"Escalade":12,
+"Taijutsu":11,
+"Comedie":13,
+"Baratin":15
+"Discussion":14,
+"Conduite":7
+"Cuisine":13,
+"Informatique":14,
+"Hack":12,
+"Jeux":13,
+"Medecine":6
+"Electricité":10,
+"Graphisme":10,
+"Video":8,
+"Comptabilite":8,
+"Droit":10,
+"Fiscalité":11,
+"Bricolage":11,
+"Musique":10,
+"Plomberie":10,
+"Menuiserie":10,
+"Electronique":10,
+"ConMan":12,
+"Plomberie":10,
+"Prestigiditation":10
+"Magie feu":10,
+"Theatre":10,
+"Impro":12,
+"Linux": 12,
+"Danse":12,
+"Diplomatie":11,
+"Contacts":14
+"Street Cred":14,
+"Occultisme":14,
+"Cryptographie":12,
+"Coréen": 2,
+"Chinois":2,
+"Anglais":14,
+"Allemande":8,
+"Escrime":8,
+"Evenementiel":10,
+"Trouver des infos":14,
+"Securite":12,
+"Escorte":11,
+Et techniquement n'importe avec un peu de temps de la doc et un peu de pratique je peux apprendre.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Bussiere</dc:creator><pubDate>Mon, 03 Dec 2012 00:00:00 +0100</pubDate><guid>tag:bussiere.github.com/Blog,2012-12-03:competence.html</guid><category>Competence</category><category>Skill</category></item><item><title>Different Event pour l'annee</title><link>http://bussiere.github.com/Blog/different-event-pour-lannee.html</link><description>&lt;p&gt;Nuit demonia
+Bonobo
+Stunfest
+Japan expo
+Epitanime
+Vampire ball
+Nuit du hack
+Halloween
+Stage capoeira
+Burning night
+Bal des princesses
+Anniversaire Palais de Tokyo&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Bussiere</dc:creator><pubDate>Mon, 03 Dec 2012 00:00:00 +0100</pubDate><guid>tag:bussiere.github.com/Blog,2012-12-03:different-event-pour-lannee.html</guid><category>Event</category><category>Soiree</category></item><item><title>J-1</title><link>http://bussiere.github.com/Blog/j-1.html</link><description>&lt;p&gt;Donc oui J-1, avant de devenir vieux.
+Cela pose quand meme pas mal de questions.
+Notamment quand beaucoup de choses changent autour de vous.&lt;/p&gt;
+&lt;p&gt;Je continue de penser que l'on a en partie l'age des gens que l'on frequente et des miss que l'on frequente.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://raw.github.com/bussiere/Blog/gh-pages/static/images/asuka_swimsuit.jpg" title="Grande Version"&gt;&lt;img alt="Asuka Swimsuit" src="http://raw.github.com/bussiere/Blog/gh-pages/static/images/asuka_swimsuit_thumb.jpg" /&gt;&lt;/a&gt; &lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Bussiere</dc:creator><pubDate>Mon, 03 Dec 2012 00:00:00 +0100</pubDate><guid>tag:bussiere.github.com/Blog,2012-12-03:j-1.html</guid><category>Veillir</category><category></category></item><item><title>Readme</title><link>http://bussiere.github.com/Blog/readme.html</link><description>&lt;p&gt;Ce blog a pour vocation de parler de python, de jeux,de trucs geeks divers ou curieux, et de femmes.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://raw.github.com/bussiere/Blog/gh-pages/static/images/_00.jpg" title="Grande Version"&gt;&lt;img alt="Vampirette" src="http://raw.github.com/bussiere/Blog/gh-pages/static/images/_00_thumb.jpg" /&gt;&lt;/a&gt; &lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Bussiere</dc:creator><pubDate>Mon, 26 Nov 2012 00:00:00 +0100</pubDate><guid>tag:bussiere.github.com/Blog,2012-11-26:readme.html</guid><category>Vampirette</category><category>Python</category><category>Readme</category><category>Geek</category></item></channel></rss>
