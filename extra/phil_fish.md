@@ -23,8 +23,8 @@ La chaine Nolife en france a fait une emission speciale sur votre et le signe qu
 
 Mon ethique de vie pour etre un peu particulier est que tant que les gens que j'estiment , m'estiment aussi les autres peuvent aller se faire voir profondément.
 
-
 S'il vous plait, revenez le monde du jeu vidéo manque de gens comme vous.
+
 
 
 Bussiere
