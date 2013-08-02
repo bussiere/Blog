@@ -3,6 +3,8 @@ Title: Revenez monsieur phil fish ...
 Category: Blog
 Tags: Grumpf
 
+[1]: http://bussiere.github.io/Blog/static/images/fezagain.jpg "grande version"
+
 Cher monsieur Phil Fish,
 
 Je vous adresse une lettre ouverte pour vous demander de revenir sur votre decision de quitter le monde du jeu.
@@ -25,6 +27,9 @@ Mon ethique de vie pour etre un peu particulier est que tant que les gens que j'
 
 S'il vous plait, revenez le monde du jeu vidéo manque de gens comme vous.
 
+
+
+[![Asuka Swimsuit](http://bussiere.github.io/Blog/static/images/fezagain.jpg)] [1] 
 
 
 Bussiere
