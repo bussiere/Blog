@@ -5,28 +5,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://bussiere.github.com/Blog/index.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/archives.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/tags.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/categories.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://bussiere.github.com/Blog/idee-de-scenario-a-la-con.html</loc>
+<lastmod>2013-08-05T00:00:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -131,301 +138,308 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://bussiere.github.com/Blog/category/blog.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/category/geek.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/category/jeux.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/category/perso.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/tag/.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/tag/amours.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/tag/frange.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/tag/resistance.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/tag/parano.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/tag/economie.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/tag/soiree.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/tag/libertarian.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/tag/resister.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/tag/competence.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/tag/geek.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/tag/java.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/tag/vampirette.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/tag/python.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/tag/bitcoin.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/tag/histoire-de-tonton-bussiere.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/tag/monnaie.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/tag/pc.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/tag/rpg.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/tag/sql.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/tag/prog.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/tag/achat.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/tag/bar.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/tag/grumpf.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/tag/django.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/tag/geek.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/tag/add.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/tag/humeur.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/tag/veillir.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/tag/cypherpunk.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/tag/jeunette.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://bussiere.github.com/Blog/tag/idee.html</loc>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/tag/creation.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/tag/crypto.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/tag/readme.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/tag/psychologie.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/tag/query.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/tag/skill.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/tag/event.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bussiere.github.com/Blog/author/bussiere.html</loc>
-<lastmod>2013-08-02T11:23:01-00:00</lastmod>
+<lastmod>2013-08-05T09:31:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
